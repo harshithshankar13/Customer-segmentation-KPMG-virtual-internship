@@ -1,0 +1,984 @@
+,gender,past_3_years_bike_related_purchases,DOB,job_industry_category,wealth_segment,owns_car,tenure,state,property_valuation,age,cluster
+0,Male,86,1957-07-12,Manufacturing,Mass Customer,Yes,14,QLD,6,63.0,2
+1,Male,69,1970-03-22,Property,Mass Customer,No,16,NSW,11,50.0,3
+2,Female,10,1974-08-28,Financial Services,Affluent Customer,No,10,VIC,5,46.0,0
+3,Female,64,1979-01-28,Manufacturing,Affluent Customer,Yes,5,QLD,1,41.0,0
+4,Female,34,1965-09-21,Financial Services,Affluent Customer,No,19,NSW,9,55.0,4
+5,Female,39,1951-04-29,Entertainment,High Net Worth,Yes,22,QLD,7,69.0,4
+6,Male,23,1976-10-06,Financial Services,Mass Customer,No,8,NSW,7,44.0,2
+7,Female,74,1972-12-27,Retail,Mass Customer,Yes,10,QLD,5,48.0,2
+8,Male,50,1972-04-28,Manufacturing,Mass Customer,Yes,5,NSW,10,48.0,2
+9,Male,72,1985-08-02,IT,Mass Customer,Yes,17,QLD,5,35.0,2
+10,Male,94,1995-01-01,Retail,High Net Worth,No,3,QLD,6,25.0,4
+11,Male,48,1999-08-30,Manufacturing,Mass Customer,No,10,VIC,8,21.0,0
+12,Male,60,1990-05-13,Telecommunications,Mass Customer,No,9,NSW,11,30.0,2
+13,Female,38,1976-12-09,Health,Mass Customer,No,4,NSW,10,44.0,2
+14,Female,32,1964-04-19,Health,Mass Customer,No,10,QLD,8,56.0,2
+15,Male,88,1954-03-31,Manufacturing,Affluent Customer,Yes,5,NSW,8,66.0,4
+16,Female,61,1993-08-22,Manufacturing,Mass Customer,Yes,4,QLD,6,27.0,1
+17,Female,83,1976-06-08,Financial Services,Mass Customer,No,14,VIC,10,44.0,0
+18,Female,65,1938-11-09,Manufacturing,Affluent Customer,Yes,11,NSW,11,82.0,4
+19,Female,2,1954-08-12,Manufacturing,High Net Worth,No,12,NSW,10,66.0,4
+20,Male,11,1968-12-21,Manufacturing,Mass Customer,Yes,13,NSW,9,52.0,2
+21,Male,44,1993-09-29,Financial Services,Mass Customer,Yes,8,NSW,7,27.0,2
+22,Male,26,1998-02-05,,Mass Customer,No,3,QLD,4,22.0,1
+23,Female,5,1977-12-17,,Affluent Customer,Yes,13,NSW,8,43.0,4
+24,Female,78,1982-10-11,Manufacturing,Mass Customer,No,4,QLD,5,38.0,2
+25,Male,11,1945-08-03,Property,Mass Customer,No,17,QLD,4,75.0,3
+26,Female,19,1952-06-27,Retail,Mass Customer,Yes,7,NSW,2,68.0,2
+27,Female,71,1966-07-20,Property,High Net Worth,Yes,5,QLD,11,54.0,3
+28,Female,84,1960-12-10,Entertainment,High Net Worth,No,11,QLD,7,60.0,4
+29,Female,45,1960-11-22,Health,High Net Worth,No,8,VIC,10,60.0,0
+30,Female,62,1980-01-26,Financial Services,High Net Worth,Yes,17,NSW,8,40.0,4
+31,Male,70,1951-11-28,Health,Mass Customer,Yes,12,NSW,2,69.0,2
+32,Female,88,1987-01-15,Financial Services,Mass Customer,Yes,7,NSW,7,33.0,2
+33,Male,71,1981-09-22,,Mass Customer,No,9,QLD,9,39.0,2
+34,Female,27,1977-05-09,Financial Services,Affluent Customer,No,20,VIC,9,43.0,0
+35,Female,48,1975-05-10,Financial Services,Affluent Customer,Yes,13,QLD,1,45.0,5
+36,Male,76,1968-03-25,,High Net Worth,No,13,NSW,10,52.0,4
+37,Male,58,1979-04-11,Manufacturing,Mass Customer,No,15,VIC,8,41.0,0
+38,Male,44,1955-06-13,Property,Mass Customer,Yes,13,VIC,2,65.0,3
+39,Male,64,1993-08-28,Manufacturing,Affluent Customer,Yes,8,NSW,9,27.0,4
+40,Female,73,1953-02-13,Health,High Net Worth,No,10,NSW,8,67.0,4
+41,Female,24,1985-03-14,Financial Services,Mass Customer,No,3,VIC,10,35.0,0
+42,Female,79,1946-10-25,Retail,Mass Customer,No,8,NSW,10,74.0,2
+43,Female,52,1966-09-18,,Affluent Customer,No,9,NSW,8,54.0,4
+44,Male,76,1961-12-05,,High Net Worth,No,6,VIC,5,59.0,0
+45,Female,29,1956-08-30,Retail,High Net Worth,Yes,5,NSW,12,64.0,4
+46,Female,14,1956-07-16,Financial Services,Affluent Customer,Yes,19,QLD,1,64.0,5
+47,Female,85,1994-12-04,,High Net Worth,Yes,14,QLD,4,26.0,4
+48,Female,59,1977-05-14,Financial Services,Mass Customer,Yes,17,VIC,7,43.0,0
+49,Male,12,1950-05-03,Argiculture,Mass Customer,No,20,NSW,12,70.0,2
+50,Male,60,1978-02-11,Manufacturing,Affluent Customer,No,10,VIC,8,42.0,0
+51,Male,62,1999-03-22,Financial Services,Affluent Customer,Yes,5,QLD,8,21.0,1
+52,Male,55,1993-12-19,Health,High Net Worth,Yes,11,VIC,7,27.0,0
+53,Female,97,1981-12-01,Property,Mass Customer,No,8,NSW,10,39.0,3
+54,Female,87,1995-03-25,Retail,Mass Customer,No,16,VIC,10,25.0,0
+55,Female,52,1981-02-03,Manufacturing,Mass Customer,No,9,NSW,10,39.0,2
+56,Male,75,1979-12-17,Argiculture,Mass Customer,No,12,NSW,8,41.0,2
+57,Female,51,1972-10-31,,Mass Customer,No,14,VIC,9,48.0,0
+58,Male,64,1966-07-29,,Mass Customer,Yes,8,VIC,5,54.0,0
+60,Male,47,1983-02-11,Financial Services,High Net Worth,Yes,17,NSW,7,37.0,4
+61,Male,31,1971-12-29,Argiculture,Mass Customer,Yes,9,NSW,9,49.0,2
+62,Male,59,1942-02-06,Financial Services,High Net Worth,No,11,NSW,10,78.0,4
+63,Female,70,1967-03-18,Manufacturing,High Net Worth,Yes,17,QLD,6,53.0,5
+64,Female,22,1999-11-21,IT,High Net Worth,Yes,7,QLD,7,21.0,4
+65,Female,58,1983-02-01,Retail,High Net Worth,No,12,NSW,8,37.0,4
+66,Female,69,1996-07-20,Property,Affluent Customer,Yes,5,QLD,11,24.0,3
+67,Female,54,1984-10-07,Manufacturing,Affluent Customer,Yes,16,QLD,7,36.0,4
+68,Male,62,1999-06-08,Financial Services,High Net Worth,Yes,3,QLD,5,21.0,1
+69,Female,82,1988-09-18,,High Net Worth,Yes,6,QLD,7,32.0,4
+70,Female,11,1996-08-03,Health,High Net Worth,Yes,13,NSW,7,24.0,4
+71,Female,78,1994-08-04,Financial Services,Mass Customer,No,9,NSW,10,26.0,2
+72,Female,73,1999-09-21,Financial Services,High Net Worth,No,15,QLD,9,21.0,4
+73,Male,5,1968-02-16,,High Net Worth,No,15,NSW,9,52.0,4
+74,Female,76,1958-04-21,Financial Services,Affluent Customer,Yes,19,NSW,9,62.0,4
+75,Male,98,1974-09-17,Manufacturing,High Net Worth,Yes,10,NSW,12,46.0,4
+76,Male,0,1961-04-15,Health,Mass Customer,No,17,NSW,9,59.0,2
+77,Female,36,1956-10-22,Health,Affluent Customer,Yes,13,VIC,7,64.0,0
+78,Female,15,1972-01-14,Manufacturing,Mass Customer,Yes,13,NSW,10,48.0,2
+79,Female,15,1973-11-28,Entertainment,High Net Worth,No,6,NSW,6,47.0,4
+80,Male,53,1995-04-09,Manufacturing,Mass Customer,No,15,NSW,12,25.0,2
+81,Female,34,1965-09-08,Financial Services,Mass Customer,No,9,NSW,8,55.0,2
+82,Female,14,1981-02-22,Financial Services,Mass Customer,No,5,NSW,9,39.0,2
+83,Male,58,1975-09-12,Manufacturing,High Net Worth,No,8,VIC,12,45.0,0
+84,Male,48,1961-03-22,Manufacturing,High Net Worth,Yes,16,NSW,10,59.0,4
+85,Female,9,1949-04-29,,High Net Worth,No,13,NSW,10,71.0,4
+86,Female,8,1999-02-15,Entertainment,Affluent Customer,No,5,NSW,9,21.0,4
+87,Male,5,1942-11-01,,High Net Worth,No,13,NSW,12,78.0,4
+88,Male,49,1950-02-10,Manufacturing,Mass Customer,Yes,14,NSW,9,70.0,2
+89,Male,24,1971-08-18,Health,Affluent Customer,No,16,QLD,2,49.0,5
+90,Male,93,1992-04-19,,Affluent Customer,No,15,NSW,10,28.0,4
+91,Female,34,1978-02-19,Health,Mass Customer,No,19,NSW,7,42.0,2
+92,Female,84,1977-09-01,Retail,Mass Customer,No,11,NSW,9,43.0,2
+93,Male,94,1952-09-21,,Affluent Customer,Yes,14,QLD,8,68.0,4
+94,Male,25,1978-12-14,,Mass Customer,No,12,QLD,5,42.0,2
+95,Male,91,1999-10-20,Manufacturing,High Net Worth,Yes,8,NSW,12,21.0,4
+96,Male,18,1943-02-08,Property,Mass Customer,Yes,15,VIC,4,77.0,3
+97,Male,60,1994-10-31,Retail,Mass Customer,No,11,QLD,6,26.0,2
+98,Male,26,1972-11-02,Manufacturing,High Net Worth,No,11,NSW,10,48.0,4
+99,Female,30,2000-05-09,Manufacturing,High Net Worth,Yes,14,VIC,8,20.0,0
+100,Female,84,1991-01-22,Retail,Mass Customer,No,3,QLD,4,29.0,2
+101,Female,56,1994-02-11,Health,Mass Customer,No,12,QLD,2,26.0,5
+102,Male,19,1940-01-18,Manufacturing,Mass Customer,No,9,NSW,2,80.0,2
+103,Female,64,1980-10-20,Financial Services,Affluent Customer,No,8,VIC,2,40.0,0
+104,Female,59,1961-10-20,Financial Services,High Net Worth,Yes,15,VIC,6,59.0,0
+105,Male,50,1946-10-23,IT,Mass Customer,Yes,16,QLD,3,74.0,5
+106,Female,21,1963-06-16,Argiculture,Mass Customer,No,18,NSW,9,57.0,2
+107,Male,14,1972-04-23,Retail,High Net Worth,No,19,VIC,8,48.0,0
+108,Female,95,1961-10-22,,Mass Customer,No,5,NSW,1,59.0,2
+109,Female,1,1969-11-09,Manufacturing,Mass Customer,Yes,16,QLD,8,51.0,2
+110,Female,95,1968-11-15,Health,Mass Customer,Yes,7,VIC,7,52.0,0
+111,Male,37,1939-12-09,Financial Services,Mass Customer,Yes,11,QLD,5,81.0,5
+112,Male,72,1961-11-05,,High Net Worth,No,14,NSW,11,59.0,4
+113,Female,0,1995-08-13,IT,Mass Customer,No,5,VIC,2,25.0,0
+114,Female,53,1977-11-08,Manufacturing,Affluent Customer,No,18,QLD,6,43.0,4
+115,Male,45,1997-11-13,Health,Mass Customer,No,5,NSW,5,23.0,2
+116,Male,64,1946-07-09,Telecommunications,Affluent Customer,Yes,17,NSW,9,74.0,4
+117,Female,21,1978-01-11,Financial Services,High Net Worth,Yes,6,VIC,9,42.0,0
+118,Male,37,1987-10-08,Retail,Mass Customer,Yes,4,QLD,7,33.0,2
+119,Female,2,1952-12-14,Property,Mass Customer,Yes,7,NSW,4,68.0,3
+120,Male,71,1981-10-29,Retail,Affluent Customer,No,4,NSW,8,39.0,4
+121,Male,57,1997-05-28,,Mass Customer,No,9,NSW,10,23.0,2
+122,Female,86,1969-07-20,,High Net Worth,No,6,NSW,8,51.0,4
+123,Female,3,1975-03-13,Financial Services,Mass Customer,No,4,QLD,4,45.0,5
+124,Male,44,1941-02-22,,High Net Worth,Yes,15,QLD,5,79.0,5
+125,Male,71,1956-02-08,Health,Mass Customer,Yes,6,VIC,3,64.0,0
+126,Female,66,1953-02-27,Health,Affluent Customer,No,21,VIC,1,67.0,0
+127,Male,13,1975-03-10,Manufacturing,Mass Customer,Yes,9,NSW,1,45.0,2
+128,Female,42,1940-02-02,Retail,Mass Customer,No,12,QLD,1,80.0,5
+129,Female,51,1990-07-12,Retail,Affluent Customer,Yes,5,NSW,7,30.0,4
+130,Female,78,1962-07-28,Manufacturing,Affluent Customer,Yes,5,NSW,2,58.0,4
+131,Male,38,1965-07-03,,Mass Customer,Yes,13,VIC,7,55.0,0
+132,Female,11,1960-03-18,,Mass Customer,Yes,15,QLD,4,60.0,5
+133,Male,29,1985-07-23,Manufacturing,Mass Customer,No,9,NSW,9,35.0,2
+134,Female,27,1978-02-05,Manufacturing,Affluent Customer,Yes,14,NSW,8,42.0,4
+135,Male,89,1970-11-08,,Mass Customer,No,19,NSW,7,50.0,2
+136,Female,90,1990-05-29,Manufacturing,Affluent Customer,No,4,QLD,5,30.0,1
+137,Male,28,1967-09-27,Health,Mass Customer,Yes,16,NSW,4,53.0,2
+138,Female,12,1979-06-18,Financial Services,Mass Customer,Yes,12,NSW,3,41.0,2
+139,Female,60,1980-02-11,Property,Mass Customer,Yes,3,VIC,8,40.0,3
+140,Male,92,1966-07-16,Manufacturing,Affluent Customer,Yes,16,VIC,9,54.0,0
+141,Male,14,2001-03-08,Health,Affluent Customer,Yes,15,NSW,9,19.0,4
+142,Male,28,1949-03-06,Retail,Mass Customer,Yes,20,QLD,8,71.0,2
+143,Male,6,1975-12-27,Financial Services,High Net Worth,Yes,17,NSW,9,45.0,4
+144,Female,4,1981-08-08,Manufacturing,Mass Customer,No,6,QLD,1,39.0,0
+145,Female,40,1950-11-05,Financial Services,Mass Customer,No,15,NSW,9,70.0,2
+146,Female,82,1965-07-15,Manufacturing,Mass Customer,No,17,NSW,8,55.0,2
+147,Male,38,1969-10-02,Retail,Mass Customer,No,16,NSW,10,51.0,2
+148,Female,58,1969-05-21,Health,High Net Worth,No,19,VIC,6,51.0,0
+149,Female,39,1971-03-31,Property,Mass Customer,No,17,NSW,8,49.0,3
+150,Female,60,1967-12-18,Health,Affluent Customer,Yes,4,QLD,3,53.0,5
+151,Female,30,1961-12-26,Manufacturing,Affluent Customer,Yes,14,NSW,8,59.0,4
+152,Male,61,1969-02-10,Financial Services,Mass Customer,Yes,18,NSW,11,51.0,2
+153,Male,54,1961-08-14,Health,Mass Customer,No,11,VIC,5,59.0,0
+154,Male,6,1956-09-04,Financial Services,Mass Customer,No,9,QLD,5,64.0,5
+155,Female,74,1963-04-24,Property,Mass Customer,Yes,19,NSW,9,57.0,3
+156,Female,89,1976-10-24,Financial Services,Mass Customer,No,21,QLD,9,44.0,2
+157,Female,16,1957-05-25,Health,Mass Customer,No,7,NSW,9,63.0,2
+158,Female,4,1978-01-15,,Mass Customer,Yes,6,VIC,9,42.0,0
+159,Male,27,1951-06-11,,High Net Worth,No,10,NSW,9,69.0,4
+160,Male,37,1986-08-07,Property,Affluent Customer,No,4,NSW,12,34.0,3
+161,Female,23,1995-08-04,Health,Mass Customer,Yes,10,VIC,11,25.0,0
+162,Female,60,1969-08-27,Manufacturing,Affluent Customer,Yes,9,NSW,2,51.0,4
+163,Male,96,1951-07-10,,High Net Worth,Yes,19,QLD,3,69.0,5
+164,Female,3,1979-05-22,,Mass Customer,Yes,3,NSW,11,41.0,2
+165,Male,55,1976-03-12,Health,Mass Customer,No,4,NSW,10,44.0,2
+166,Female,65,1973-03-18,Financial Services,High Net Worth,No,12,NSW,3,47.0,4
+167,Female,55,1989-01-05,Manufacturing,Mass Customer,Yes,8,QLD,4,31.0,5
+168,Female,99,1952-07-01,Retail,Affluent Customer,No,15,VIC,9,68.0,0
+169,Male,33,1986-01-23,Argiculture,Affluent Customer,No,13,VIC,7,34.0,0
+170,Female,42,1955-06-05,,Affluent Customer,No,14,NSW,9,65.0,4
+171,Male,36,1956-02-22,Property,Mass Customer,Yes,10,NSW,11,64.0,3
+172,Male,60,1989-11-18,Financial Services,Mass Customer,Yes,4,NSW,6,31.0,2
+173,Male,56,1995-02-19,Manufacturing,Affluent Customer,Yes,16,VIC,1,25.0,0
+174,Female,72,1955-09-06,Property,Mass Customer,No,5,VIC,8,65.0,3
+175,Female,54,1992-07-05,Telecommunications,High Net Worth,No,7,NSW,9,28.0,4
+176,Female,79,1939-01-29,,High Net Worth,Yes,9,VIC,7,81.0,0
+177,Male,51,1952-04-01,Manufacturing,Mass Customer,No,16,NSW,9,68.0,2
+178,Male,92,1950-12-26,Retail,Mass Customer,Yes,13,NSW,10,70.0,2
+179,Female,71,1975-03-26,Financial Services,Mass Customer,No,5,QLD,9,45.0,2
+180,Male,39,1965-01-08,Health,High Net Worth,No,9,NSW,9,55.0,4
+181,Male,78,1974-12-09,Manufacturing,Mass Customer,No,18,QLD,7,46.0,2
+182,Male,36,1946-03-24,,High Net Worth,Yes,21,NSW,8,74.0,4
+183,Male,34,1974-03-25,Manufacturing,Mass Customer,Yes,13,NSW,7,46.0,2
+184,Female,68,1985-09-02,Property,Mass Customer,No,5,VIC,9,35.0,3
+185,Male,65,1992-07-27,Health,High Net Worth,Yes,3,VIC,10,28.0,0
+186,Female,26,1971-11-28,Financial Services,High Net Worth,No,17,NSW,10,49.0,4
+187,Female,67,1973-05-09,,Mass Customer,Yes,17,NSW,8,47.0,2
+188,Female,7,1986-11-09,Property,High Net Worth,No,9,QLD,10,34.0,3
+189,Male,74,1996-05-30,IT,Affluent Customer,No,10,NSW,9,24.0,4
+190,Female,32,1992-03-27,Property,Affluent Customer,No,8,NSW,11,28.0,3
+191,Male,55,1938-10-16,Health,Mass Customer,Yes,7,NSW,8,82.0,2
+192,Female,16,1970-03-19,Telecommunications,High Net Worth,No,10,NSW,8,50.0,4
+193,Female,47,1969-08-02,Argiculture,Mass Customer,No,7,NSW,10,51.0,2
+194,Female,26,1944-01-05,Health,Mass Customer,Yes,11,VIC,12,76.0,0
+195,Male,6,1972-03-10,Property,Affluent Customer,No,16,VIC,3,48.0,3
+196,Female,60,1981-02-16,,High Net Worth,No,7,QLD,9,39.0,4
+197,Female,66,1990-01-09,,High Net Worth,No,2,NSW,9,30.0,4
+198,Male,44,1993-11-18,,Affluent Customer,No,3,NSW,3,27.0,4
+199,Female,55,1966-01-02,Manufacturing,High Net Worth,Yes,12,QLD,4,54.0,5
+200,Male,70,1940-12-05,,Mass Customer,Yes,13,VIC,7,80.0,0
+201,Female,84,1959-04-19,Health,Mass Customer,No,15,NSW,8,61.0,2
+202,Male,47,1945-02-13,Manufacturing,Affluent Customer,Yes,21,NSW,9,75.0,4
+203,Female,44,1952-10-20,Retail,Mass Customer,Yes,7,QLD,1,68.0,5
+204,Male,2,1998-11-26,,Mass Customer,No,2,NSW,7,22.0,2
+205,Female,19,1948-10-12,,Affluent Customer,Yes,12,NSW,8,72.0,4
+206,Male,31,1976-08-27,Telecommunications,Affluent Customer,No,9,QLD,7,44.0,4
+207,Female,70,1955-08-18,,Mass Customer,Yes,11,NSW,7,65.0,2
+208,Female,12,1958-01-03,Health,High Net Worth,No,19,NSW,9,62.0,4
+209,Male,92,1967-05-25,Financial Services,Affluent Customer,No,4,QLD,4,53.0,4
+210,Male,32,1967-12-12,Financial Services,Mass Customer,No,16,NSW,10,53.0,2
+211,Male,82,1983-11-26,Health,High Net Worth,Yes,5,NSW,8,37.0,4
+212,Male,12,1997-03-13,Retail,Mass Customer,No,6,VIC,6,23.0,0
+213,Male,28,1956-10-16,Entertainment,High Net Worth,No,10,NSW,8,64.0,4
+214,Female,9,1947-02-28,Property,Mass Customer,Yes,22,QLD,7,73.0,3
+215,Male,11,2000-04-07,Manufacturing,Mass Customer,No,4,NSW,11,20.0,2
+216,Female,50,1997-09-04,,Mass Customer,No,5,NSW,7,23.0,2
+217,Female,8,1963-01-01,Health,Affluent Customer,Yes,18,QLD,2,57.0,5
+218,Male,78,1980-02-16,Financial Services,Mass Customer,Yes,18,NSW,11,40.0,2
+219,Male,7,1994-04-15,IT,Affluent Customer,No,3,NSW,8,26.0,4
+220,Male,68,1981-06-20,Retail,Mass Customer,Yes,15,VIC,8,39.0,0
+221,Male,66,1979-02-05,Health,Mass Customer,Yes,7,NSW,9,41.0,2
+222,Female,62,1966-01-08,,Mass Customer,No,18,NSW,11,54.0,2
+223,Male,66,2000-01-25,Health,High Net Worth,No,9,NSW,8,20.0,4
+224,Male,91,1977-12-06,IT,Mass Customer,No,17,QLD,1,43.0,5
+225,Male,0,2000-06-25,Manufacturing,Mass Customer,Yes,15,QLD,8,20.0,2
+227,Male,54,1964-06-22,Financial Services,High Net Worth,No,8,NSW,9,56.0,4
+228,Female,46,1954-11-13,Financial Services,Mass Customer,No,7,NSW,8,66.0,2
+229,Female,48,1963-12-13,Health,Affluent Customer,Yes,14,QLD,4,57.0,5
+230,Male,52,1978-05-31,Health,Mass Customer,Yes,14,NSW,10,42.0,2
+231,Male,50,1943-09-24,Manufacturing,Mass Customer,Yes,18,NSW,9,77.0,2
+232,Male,94,1965-08-15,,Mass Customer,No,14,NSW,9,55.0,2
+233,Female,53,1943-07-14,Property,Mass Customer,No,16,NSW,7,77.0,3
+234,Female,25,1997-07-23,,Mass Customer,Yes,13,VIC,8,23.0,0
+235,Male,41,1940-07-13,Health,Affluent Customer,No,8,NSW,8,80.0,4
+236,Female,97,1943-10-05,Telecommunications,High Net Worth,Yes,13,NSW,8,77.0,4
+237,Female,30,1939-04-04,,Mass Customer,Yes,8,NSW,10,81.0,2
+238,Female,84,1941-10-02,Entertainment,Mass Customer,Yes,15,QLD,1,79.0,5
+239,Male,4,1961-05-27,,Mass Customer,Yes,5,QLD,8,59.0,2
+240,Female,18,1974-01-24,Manufacturing,High Net Worth,Yes,9,VIC,9,46.0,0
+241,Female,94,1959-05-08,Manufacturing,Mass Customer,No,5,QLD,9,61.0,2
+242,Male,57,1969-09-21,Manufacturing,Affluent Customer,Yes,16,VIC,4,51.0,0
+243,Male,29,1957-11-15,Health,Mass Customer,No,12,QLD,8,63.0,2
+244,Female,2,1950-09-05,,Mass Customer,Yes,19,QLD,5,70.0,5
+245,Female,8,1967-09-11,Manufacturing,Affluent Customer,Yes,4,VIC,10,53.0,0
+246,Female,74,1963-05-02,Financial Services,High Net Worth,No,14,QLD,3,57.0,5
+247,Male,49,1971-04-26,Financial Services,Affluent Customer,Yes,10,QLD,7,49.0,4
+248,Male,59,1978-12-11,Property,High Net Worth,Yes,11,NSW,4,42.0,3
+249,Male,57,1974-05-14,Entertainment,High Net Worth,No,18,QLD,3,46.0,4
+250,Female,90,1975-03-12,Financial Services,Mass Customer,No,11,NSW,10,45.0,2
+251,Male,85,1967-02-03,Health,Affluent Customer,Yes,6,QLD,2,53.0,5
+252,Female,13,1961-01-16,Retail,Mass Customer,No,9,NSW,9,59.0,2
+253,Female,91,1980-09-16,IT,Mass Customer,No,9,NSW,9,40.0,2
+254,Female,75,1997-09-25,Financial Services,High Net Worth,No,12,NSW,12,23.0,4
+255,Female,17,1939-07-17,Manufacturing,Mass Customer,No,16,VIC,10,81.0,0
+256,Female,49,1959-04-11,Retail,Mass Customer,No,15,VIC,12,61.0,0
+257,Male,37,1962-03-03,,Mass Customer,No,5,QLD,3,58.0,5
+258,Female,45,2000-09-25,,Mass Customer,Yes,9,QLD,6,20.0,2
+259,Female,41,1971-11-27,Manufacturing,High Net Worth,No,19,NSW,10,49.0,4
+260,Female,9,1969-07-06,Retail,Mass Customer,Yes,14,VIC,9,51.0,0
+261,Female,21,1991-06-07,Argiculture,High Net Worth,No,6,QLD,6,29.0,4
+262,Male,88,1992-11-18,IT,Mass Customer,Yes,10,QLD,9,28.0,2
+263,Female,36,1948-01-13,Financial Services,Mass Customer,Yes,7,QLD,5,72.0,5
+264,Male,57,1996-02-19,Manufacturing,Affluent Customer,Yes,2,QLD,6,24.0,1
+265,Female,56,1938-08-31,,Mass Customer,No,10,NSW,12,82.0,2
+266,Female,81,1969-11-17,Property,Mass Customer,Yes,18,NSW,8,51.0,3
+267,Female,82,1973-09-25,Financial Services,Mass Customer,No,7,VIC,7,47.0,0
+268,Male,70,1951-12-16,Manufacturing,Affluent Customer,Yes,14,VIC,7,69.0,0
+269,Female,89,1972-01-17,Health,High Net Worth,No,8,NSW,8,48.0,4
+270,Male,84,1996-07-01,Manufacturing,High Net Worth,Yes,1,VIC,7,24.0,0
+271,Male,70,1961-01-03,Argiculture,Mass Customer,Yes,5,NSW,3,59.0,2
+272,Female,99,1976-08-24,Manufacturing,Mass Customer,No,3,NSW,10,44.0,2
+273,Male,48,1956-06-28,Manufacturing,Mass Customer,No,6,NSW,9,64.0,2
+274,Male,35,1976-06-11,Manufacturing,Affluent Customer,No,13,NSW,9,44.0,4
+275,Female,90,1966-03-07,,Affluent Customer,Yes,7,VIC,3,54.0,0
+276,Female,70,1953-03-12,Telecommunications,High Net Worth,No,6,NSW,12,67.0,4
+277,Male,50,1962-10-06,Health,Affluent Customer,Yes,5,VIC,9,58.0,0
+278,Female,64,1976-03-07,Financial Services,Mass Customer,Yes,16,VIC,9,44.0,0
+279,Female,81,1965-07-03,Financial Services,Affluent Customer,No,17,VIC,9,55.0,0
+280,Male,7,1968-10-14,,Mass Customer,No,6,NSW,12,52.0,2
+281,Female,26,1971-09-18,Telecommunications,Mass Customer,Yes,10,VIC,8,49.0,0
+282,Female,37,1978-04-02,Manufacturing,Mass Customer,No,19,VIC,2,42.0,0
+283,Male,81,1959-01-05,,Mass Customer,No,17,QLD,7,61.0,2
+284,Female,88,1967-01-09,Health,Mass Customer,No,11,QLD,7,53.0,2
+285,Male,3,1957-03-23,Financial Services,High Net Worth,Yes,19,NSW,3,63.0,4
+286,Male,70,1947-04-22,Argiculture,Affluent Customer,No,13,QLD,8,73.0,4
+287,Female,2,1958-12-28,,Affluent Customer,No,6,QLD,10,62.0,4
+288,Female,96,1976-04-20,Retail,Affluent Customer,Yes,9,NSW,7,44.0,4
+289,Male,50,1990-11-13,Manufacturing,High Net Worth,Yes,10,VIC,1,30.0,0
+290,Female,95,1981-06-03,,High Net Worth,No,12,NSW,11,39.0,4
+291,Male,15,1972-07-30,Manufacturing,Affluent Customer,No,9,VIC,8,48.0,0
+292,Male,89,1958-12-07,,Affluent Customer,No,20,VIC,6,62.0,0
+293,Female,88,1963-05-11,Health,Mass Customer,Yes,6,VIC,7,57.0,0
+294,Male,36,1980-02-01,Financial Services,Mass Customer,No,4,QLD,8,40.0,2
+295,Female,68,1988-01-30,Financial Services,Mass Customer,Yes,5,NSW,7,32.0,2
+296,Male,73,1970-08-08,Property,High Net Worth,No,19,NSW,8,50.0,3
+297,Male,97,1965-02-27,Financial Services,Mass Customer,Yes,4,NSW,8,55.0,2
+298,Female,91,1991-02-14,Argiculture,Mass Customer,No,10,NSW,8,29.0,2
+299,Female,59,1947-10-08,Retail,Mass Customer,No,17,NSW,11,73.0,2
+300,Male,39,1988-01-10,Retail,Mass Customer,Yes,10,QLD,5,32.0,2
+301,Female,97,1993-08-09,Financial Services,Mass Customer,No,7,VIC,9,27.0,0
+302,Male,79,1981-08-05,Health,Affluent Customer,Yes,11,NSW,12,39.0,4
+303,Female,56,1949-05-20,,Affluent Customer,No,11,NSW,11,71.0,4
+304,Female,42,1955-07-17,Financial Services,High Net Worth,Yes,13,QLD,8,65.0,4
+305,Female,81,1974-08-09,Financial Services,Mass Customer,No,6,QLD,7,46.0,2
+306,Male,1,1954-11-09,,Affluent Customer,Yes,11,NSW,9,66.0,4
+307,Female,63,1959-06-12,Financial Services,High Net Worth,Yes,18,NSW,3,61.0,4
+308,Female,45,1981-02-15,Health,Mass Customer,No,11,NSW,6,39.0,2
+309,Male,21,1971-08-19,Manufacturing,Mass Customer,Yes,14,NSW,6,49.0,2
+310,Female,39,1991-02-07,Property,High Net Worth,Yes,10,VIC,11,29.0,3
+311,Female,28,1965-12-13,Health,Mass Customer,No,5,VIC,5,55.0,0
+312,Male,61,1989-12-15,Manufacturing,High Net Worth,No,7,NSW,8,31.0,4
+313,Male,95,1968-11-24,Manufacturing,Mass Customer,No,7,NSW,11,52.0,2
+314,Female,73,1992-01-31,,High Net Worth,Yes,3,QLD,8,28.0,1
+315,Female,96,1978-05-13,Manufacturing,High Net Worth,No,18,VIC,9,42.0,0
+316,Female,3,1957-10-17,Health,Mass Customer,Yes,15,VIC,6,63.0,0
+317,Female,20,1985-03-26,Property,Mass Customer,Yes,15,QLD,7,35.0,3
+318,Female,74,1955-07-28,Health,Affluent Customer,Yes,14,NSW,8,65.0,4
+319,Male,87,1981-09-11,Financial Services,Affluent Customer,Yes,4,NSW,9,39.0,4
+320,Male,78,1976-11-06,,High Net Worth,Yes,7,VIC,7,44.0,0
+321,Male,23,1977-04-08,Financial Services,High Net Worth,No,12,NSW,6,43.0,4
+322,Female,0,1981-11-29,Property,Mass Customer,No,17,NSW,9,39.0,3
+323,Male,35,1992-08-27,Manufacturing,High Net Worth,No,9,VIC,9,28.0,0
+325,Female,14,1955-01-08,Health,High Net Worth,No,7,VIC,1,65.0,0
+326,Female,17,1952-05-19,Financial Services,Mass Customer,Yes,18,QLD,4,68.0,5
+327,Male,84,1982-02-10,,Mass Customer,No,12,QLD,5,38.0,2
+328,Male,32,1978-07-22,Manufacturing,High Net Worth,No,21,QLD,6,42.0,4
+329,Female,32,1972-11-26,Property,Mass Customer,No,11,NSW,4,48.0,3
+330,Male,17,1999-06-23,,Affluent Customer,No,9,QLD,3,21.0,4
+331,Male,46,1959-12-25,,High Net Worth,Yes,15,NSW,9,61.0,4
+332,Male,64,1997-09-27,Entertainment,Mass Customer,Yes,7,VIC,8,23.0,0
+333,Male,33,1978-05-27,Retail,Affluent Customer,Yes,9,VIC,2,42.0,0
+334,Female,62,1945-08-08,Financial Services,Mass Customer,Yes,15,NSW,10,75.0,2
+335,Male,81,1943-08-27,Manufacturing,Mass Customer,No,7,NSW,9,77.0,2
+336,Female,8,1999-10-24,Financial Services,Mass Customer,Yes,16,VIC,7,21.0,0
+337,Male,53,1976-01-24,,Affluent Customer,No,14,VIC,8,44.0,0
+338,Male,18,1956-06-19,Manufacturing,Mass Customer,Yes,18,NSW,4,64.0,2
+339,Female,80,1975-03-28,,High Net Worth,Yes,7,VIC,9,45.0,0
+340,Female,93,1969-10-09,Health,Affluent Customer,Yes,17,QLD,3,51.0,5
+341,Female,38,1968-12-11,IT,Mass Customer,Yes,11,VIC,10,52.0,0
+342,Male,84,1951-11-27,IT,Affluent Customer,No,10,QLD,6,69.0,4
+343,Female,22,1939-12-22,Manufacturing,Mass Customer,Yes,16,QLD,10,81.0,2
+344,Male,17,1964-09-28,Manufacturing,Affluent Customer,Yes,13,QLD,7,56.0,4
+345,Female,71,1952-04-15,IT,Mass Customer,Yes,7,NSW,8,68.0,2
+346,Female,43,1941-07-21,Property,Mass Customer,Yes,7,NSW,9,79.0,3
+347,Male,22,1961-02-11,Financial Services,High Net Worth,Yes,17,QLD,6,59.0,4
+348,Female,11,1953-08-08,Health,Mass Customer,No,5,NSW,1,67.0,2
+349,Male,67,1981-05-26,Manufacturing,High Net Worth,No,12,VIC,10,39.0,0
+350,Male,18,1956-12-02,,Mass Customer,No,17,QLD,8,64.0,2
+351,Female,59,1964-10-01,Financial Services,Mass Customer,No,13,NSW,6,56.0,2
+352,Female,74,1944-10-21,Argiculture,Mass Customer,Yes,17,VIC,10,76.0,0
+353,Male,19,1953-10-19,Health,Affluent Customer,Yes,12,NSW,8,67.0,4
+354,Female,59,2002-02-27,,Affluent Customer,Yes,14,VIC,5,18.0,0
+355,Female,45,1980-07-30,Health,Affluent Customer,No,10,NSW,8,40.0,4
+356,Female,30,1944-11-10,Health,Mass Customer,Yes,11,VIC,7,76.0,0
+357,Male,59,1971-01-11,Manufacturing,Affluent Customer,No,12,NSW,11,49.0,4
+359,Male,99,1990-07-28,Retail,High Net Worth,No,10,VIC,7,30.0,0
+361,Male,7,1979-10-31,Telecommunications,Mass Customer,No,12,NSW,10,41.0,2
+362,Female,67,1997-12-26,Financial Services,Mass Customer,Yes,10,NSW,2,23.0,2
+363,Male,13,1957-09-03,Financial Services,Mass Customer,No,13,VIC,11,63.0,0
+364,Female,62,1999-11-08,Financial Services,Mass Customer,Yes,15,NSW,4,21.0,2
+365,Male,60,1981-08-17,Health,Affluent Customer,No,18,QLD,10,39.0,4
+366,Female,84,1971-12-24,Financial Services,Mass Customer,No,11,NSW,8,49.0,2
+367,Male,18,1959-06-13,Financial Services,High Net Worth,Yes,9,VIC,7,61.0,0
+368,Female,6,1957-10-01,,Mass Customer,Yes,20,NSW,9,63.0,2
+369,Male,50,1994-10-21,IT,High Net Worth,No,4,VIC,4,26.0,0
+370,Female,57,1978-08-02,,Mass Customer,No,11,QLD,11,42.0,2
+371,Male,30,1963-08-20,Health,Mass Customer,Yes,6,NSW,9,57.0,2
+372,Male,4,1974-07-05,Entertainment,Mass Customer,No,9,NSW,10,46.0,2
+373,Male,54,1975-08-04,Financial Services,Affluent Customer,No,11,VIC,11,45.0,0
+375,Male,7,1960-09-12,,High Net Worth,Yes,20,QLD,8,60.0,4
+376,Male,60,1974-11-09,IT,High Net Worth,No,10,QLD,2,46.0,4
+377,Female,81,1986-12-03,Financial Services,High Net Worth,No,2,VIC,1,34.0,0
+378,Female,34,1974-06-24,Manufacturing,Affluent Customer,No,14,VIC,6,46.0,0
+379,Female,40,1942-01-23,Financial Services,Mass Customer,Yes,16,QLD,5,78.0,5
+380,Female,7,1963-01-14,Manufacturing,Mass Customer,No,12,NSW,6,57.0,2
+381,Female,4,1996-01-24,Financial Services,Affluent Customer,Yes,2,NSW,12,24.0,4
+382,Male,85,1964-01-31,Health,Mass Customer,Yes,8,NSW,10,56.0,2
+383,Female,65,1944-10-05,Entertainment,Affluent Customer,No,17,NSW,7,76.0,4
+384,Male,82,1995-05-18,Financial Services,Affluent Customer,Yes,9,VIC,6,25.0,0
+385,Male,46,1954-06-14,Manufacturing,High Net Worth,Yes,9,QLD,7,66.0,4
+386,Female,11,1961-09-29,Health,Mass Customer,No,13,NSW,8,59.0,2
+387,Female,15,1973-08-25,,Affluent Customer,Yes,8,VIC,5,47.0,0
+388,Male,51,1993-03-02,Telecommunications,Affluent Customer,No,5,QLD,3,27.0,0
+389,Female,75,1948-06-30,,Mass Customer,No,22,NSW,7,72.0,2
+390,Female,25,1979-02-26,,High Net Worth,No,21,VIC,6,41.0,0
+391,Female,92,1939-08-28,Manufacturing,Affluent Customer,No,10,NSW,10,81.0,4
+392,Male,36,1982-12-10,Retail,Mass Customer,Yes,6,NSW,11,38.0,2
+393,Male,10,1950-04-26,Financial Services,Mass Customer,No,19,VIC,9,70.0,0
+394,Male,74,1990-05-20,Manufacturing,Mass Customer,Yes,5,VIC,9,30.0,0
+395,Female,73,1961-12-22,Entertainment,Mass Customer,Yes,9,NSW,12,59.0,2
+396,Female,66,2002-01-17,Health,Mass Customer,Yes,4,QLD,3,18.0,1
+397,Female,84,1961-01-05,Entertainment,High Net Worth,Yes,15,QLD,5,59.0,5
+398,Male,54,1942-08-09,Health,Mass Customer,Yes,21,NSW,8,78.0,2
+399,Male,72,1979-03-24,Financial Services,Affluent Customer,No,18,NSW,10,41.0,4
+400,Male,53,1976-11-04,IT,Mass Customer,No,12,NSW,5,44.0,2
+401,Female,91,1967-01-20,Financial Services,Mass Customer,Yes,13,VIC,10,53.0,0
+402,Male,56,1955-02-13,,Mass Customer,Yes,13,VIC,7,65.0,0
+403,Male,80,1978-01-21,Financial Services,Affluent Customer,Yes,17,NSW,11,42.0,4
+404,Female,67,1977-09-10,Manufacturing,High Net Worth,Yes,16,VIC,7,43.0,0
+405,Female,5,1980-08-15,Financial Services,Mass Customer,Yes,13,NSW,11,40.0,2
+406,Male,21,1938-11-29,Health,Mass Customer,No,19,NSW,11,82.0,2
+407,Female,24,1996-02-29,Health,High Net Worth,No,12,VIC,7,24.0,0
+408,Female,75,1983-03-08,Health,High Net Worth,No,10,VIC,10,37.0,0
+409,Female,15,1957-12-05,,Affluent Customer,No,18,NSW,7,63.0,4
+410,Female,81,1946-03-15,,Mass Customer,Yes,21,NSW,8,74.0,2
+411,Male,84,1995-12-09,Manufacturing,Mass Customer,No,14,VIC,11,25.0,0
+412,Male,65,1954-07-18,Manufacturing,Mass Customer,No,17,NSW,8,66.0,2
+413,Female,48,1958-08-28,Health,High Net Worth,No,11,NSW,12,62.0,4
+414,Male,37,1938-09-10,Manufacturing,Mass Customer,No,9,NSW,9,82.0,2
+415,Male,57,1963-10-15,Argiculture,Mass Customer,Yes,15,QLD,2,57.0,5
+416,Male,57,1953-05-17,Entertainment,Affluent Customer,No,17,VIC,3,67.0,0
+417,Female,46,1989-01-14,Financial Services,Mass Customer,No,7,NSW,3,31.0,2
+418,Male,76,1998-01-12,Financial Services,Affluent Customer,Yes,1,NSW,10,22.0,4
+419,Female,33,1991-12-18,Financial Services,Mass Customer,No,3,NSW,1,29.0,2
+420,Female,90,1948-01-24,Property,Mass Customer,No,12,NSW,11,72.0,3
+421,Male,97,1970-01-21,Argiculture,Mass Customer,Yes,10,NSW,8,50.0,2
+422,Male,3,1991-12-01,Property,Mass Customer,No,12,NSW,9,29.0,3
+423,Male,87,1993-10-18,Retail,Affluent Customer,No,15,VIC,5,27.0,0
+424,Male,70,1945-11-08,Manufacturing,Mass Customer,Yes,19,NSW,9,75.0,2
+425,Female,13,1947-07-19,Financial Services,Mass Customer,Yes,20,QLD,9,73.0,5
+426,Female,96,1975-01-08,,Mass Customer,Yes,18,NSW,7,45.0,2
+427,Female,52,1969-02-09,Manufacturing,High Net Worth,No,13,NSW,9,51.0,4
+428,Female,6,1977-09-26,Property,Affluent Customer,Yes,20,NSW,9,43.0,3
+429,Female,51,1940-11-10,,Affluent Customer,No,8,NSW,4,80.0,4
+430,Male,23,1974-12-12,Argiculture,Mass Customer,Yes,4,NSW,8,46.0,2
+431,Female,58,1975-12-22,IT,Mass Customer,Yes,17,NSW,9,45.0,2
+432,Male,72,1957-11-12,Health,Mass Customer,No,16,QLD,4,63.0,5
+433,Male,61,1978-10-26,Property,Affluent Customer,No,12,VIC,8,42.0,3
+435,Male,15,1973-11-14,Entertainment,High Net Worth,Yes,22,VIC,7,47.0,0
+436,Male,37,1997-08-27,Manufacturing,High Net Worth,Yes,10,NSW,8,23.0,4
+437,Male,28,1974-08-07,Property,Affluent Customer,Yes,7,VIC,2,46.0,3
+438,Male,47,1952-10-05,Financial Services,Mass Customer,No,7,NSW,10,68.0,2
+440,Female,59,1941-04-04,Entertainment,High Net Worth,Yes,14,NSW,1,79.0,4
+441,Male,16,1997-03-17,Financial Services,Affluent Customer,No,15,VIC,8,23.0,0
+442,Female,30,1987-03-01,Argiculture,Mass Customer,Yes,14,NSW,2,33.0,2
+443,Female,59,1964-01-22,IT,Mass Customer,No,6,NSW,2,56.0,2
+444,Female,76,1972-05-17,Financial Services,Mass Customer,Yes,10,QLD,7,48.0,5
+445,Male,67,1993-11-27,Financial Services,Affluent Customer,No,8,QLD,5,27.0,4
+446,Male,54,1958-04-19,Property,High Net Worth,Yes,5,VIC,11,62.0,3
+447,Female,83,1966-04-30,Manufacturing,High Net Worth,Yes,8,QLD,4,54.0,5
+448,Male,61,1977-02-03,Retail,Affluent Customer,No,11,NSW,10,43.0,4
+449,Female,47,1998-11-22,,High Net Worth,Yes,3,NSW,10,22.0,4
+450,Female,84,1996-11-24,Financial Services,Mass Customer,No,9,VIC,4,24.0,0
+451,Female,0,1991-12-02,Retail,High Net Worth,Yes,14,VIC,5,29.0,0
+452,Female,12,1943-04-06,Manufacturing,High Net Worth,No,21,NSW,9,77.0,4
+453,Male,42,1982-02-01,Financial Services,High Net Worth,No,14,NSW,11,38.0,4
+454,Male,70,1985-01-29,Financial Services,Mass Customer,No,17,NSW,11,35.0,2
+455,Female,21,1961-07-31,,High Net Worth,No,10,VIC,6,59.0,0
+456,Female,17,1976-09-07,Manufacturing,High Net Worth,No,17,QLD,3,44.0,5
+457,Female,19,1972-08-27,,Affluent Customer,Yes,13,QLD,8,48.0,4
+458,Female,60,1947-03-11,Financial Services,Mass Customer,No,16,VIC,10,73.0,0
+459,Male,7,1951-04-29,Retail,Affluent Customer,Yes,21,NSW,12,69.0,4
+460,Female,67,1974-11-25,Property,Mass Customer,Yes,14,QLD,3,46.0,3
+461,Female,59,1940-05-19,,Mass Customer,Yes,19,NSW,9,80.0,2
+462,Female,24,1947-11-26,Retail,Mass Customer,No,8,VIC,4,73.0,0
+463,Male,56,1965-02-03,Property,Mass Customer,Yes,5,NSW,7,55.0,3
+464,Female,25,1977-03-20,Retail,Mass Customer,No,16,NSW,11,43.0,2
+465,Female,22,1993-08-03,Health,High Net Worth,Yes,2,VIC,10,27.0,0
+466,Male,42,1972-05-19,Financial Services,Mass Customer,No,19,QLD,8,48.0,2
+467,Female,38,1970-12-17,,Mass Customer,Yes,18,NSW,7,50.0,2
+468,Female,75,2000-12-09,Argiculture,Mass Customer,No,10,NSW,9,20.0,2
+469,Female,50,2001-08-04,IT,Mass Customer,No,14,VIC,10,19.0,0
+470,Female,50,1990-10-19,Retail,Mass Customer,Yes,4,QLD,7,30.0,2
+471,Male,95,1967-03-14,Telecommunications,Mass Customer,Yes,18,VIC,9,53.0,0
+472,Male,9,1999-11-29,Manufacturing,Affluent Customer,No,7,NSW,10,21.0,4
+473,Male,99,1956-04-21,IT,Affluent Customer,Yes,20,NSW,5,64.0,4
+474,Male,31,1979-07-28,Entertainment,Mass Customer,Yes,15,NSW,10,41.0,2
+475,Male,7,2001-12-29,Health,Affluent Customer,Yes,9,NSW,3,19.0,4
+476,Female,25,1972-07-29,Entertainment,Mass Customer,No,16,VIC,10,48.0,0
+477,Female,43,1995-10-03,Financial Services,High Net Worth,No,11,NSW,8,25.0,4
+478,Male,89,1957-02-14,,Mass Customer,No,12,NSW,9,63.0,2
+479,Female,73,1951-04-30,Health,High Net Worth,No,15,NSW,7,69.0,4
+480,Male,25,1979-07-28,Health,Mass Customer,Yes,10,VIC,7,41.0,0
+481,Male,97,1959-03-01,Financial Services,Mass Customer,Yes,8,VIC,2,61.0,0
+482,Female,13,1939-03-06,Retail,Affluent Customer,No,13,NSW,7,81.0,4
+483,Male,82,1961-08-27,,Mass Customer,Yes,14,NSW,7,59.0,2
+484,Male,29,1970-01-14,Manufacturing,High Net Worth,No,11,VIC,4,50.0,0
+485,Male,46,1944-10-25,Financial Services,High Net Worth,Yes,13,QLD,4,76.0,5
+486,Female,69,1966-06-27,Financial Services,High Net Worth,No,8,VIC,6,54.0,0
+487,Male,83,1966-09-14,Financial Services,High Net Worth,Yes,19,QLD,3,54.0,5
+488,Male,4,1994-03-13,,High Net Worth,Yes,6,VIC,1,26.0,0
+489,Female,68,1975-06-15,,Affluent Customer,Yes,10,NSW,3,45.0,4
+490,Female,72,1975-10-12,Manufacturing,Mass Customer,Yes,10,NSW,9,45.0,2
+491,Female,56,1965-05-28,Retail,Mass Customer,No,11,VIC,8,55.0,0
+492,Female,55,1996-02-11,Manufacturing,Mass Customer,No,2,NSW,8,24.0,2
+493,Female,15,1944-06-14,,Mass Customer,Yes,21,VIC,9,76.0,0
+494,Male,39,1977-11-08,IT,Affluent Customer,No,14,QLD,7,43.0,4
+495,Male,86,1997-11-01,Financial Services,Affluent Customer,Yes,10,NSW,10,23.0,4
+496,Female,59,1952-05-05,Property,High Net Worth,No,13,NSW,11,68.0,3
+497,Female,69,1960-05-09,,Affluent Customer,No,15,NSW,4,60.0,4
+498,Female,56,1989-03-17,,Mass Customer,No,6,NSW,9,31.0,2
+499,Female,5,1954-10-21,Financial Services,Mass Customer,Yes,11,QLD,5,66.0,5
+500,Male,82,1967-02-02,Argiculture,Mass Customer,No,16,VIC,10,53.0,0
+501,Male,27,1976-09-20,,Mass Customer,Yes,8,NSW,9,44.0,2
+502,Female,10,1974-08-19,Entertainment,Affluent Customer,Yes,17,NSW,7,46.0,4
+503,Male,68,1960-12-19,Retail,High Net Worth,Yes,20,QLD,4,60.0,4
+504,Female,30,1975-09-11,,Mass Customer,Yes,19,NSW,9,45.0,2
+505,Male,13,1945-07-10,,High Net Worth,No,11,NSW,7,75.0,4
+506,Male,44,1980-09-01,,Affluent Customer,No,4,VIC,7,40.0,0
+507,Female,94,1974-08-29,,Mass Customer,Yes,19,QLD,8,46.0,2
+508,Female,6,1976-11-24,Manufacturing,Mass Customer,Yes,13,NSW,9,44.0,2
+509,Male,41,1980-03-14,,Affluent Customer,No,9,NSW,11,40.0,4
+510,Male,4,1973-10-13,Financial Services,Mass Customer,No,11,NSW,8,47.0,2
+511,Male,57,1999-05-14,Retail,High Net Worth,No,12,VIC,9,21.0,0
+512,Female,81,1976-03-10,Manufacturing,High Net Worth,No,9,VIC,8,44.0,0
+513,Female,94,1954-01-30,Health,Mass Customer,Yes,10,QLD,2,66.0,5
+514,Female,72,1988-09-30,Financial Services,Mass Customer,Yes,10,QLD,9,32.0,2
+515,Female,91,1971-06-28,Manufacturing,Mass Customer,No,9,VIC,2,49.0,0
+516,Male,75,2001-06-21,,Mass Customer,Yes,5,NSW,9,19.0,2
+517,Female,87,1964-05-15,Manufacturing,High Net Worth,Yes,11,QLD,8,56.0,4
+518,Female,79,1999-07-28,Manufacturing,Affluent Customer,No,12,NSW,4,21.0,4
+519,Female,87,1954-10-06,Retail,Mass Customer,Yes,9,QLD,6,66.0,2
+520,Female,33,1951-10-14,Manufacturing,High Net Worth,No,12,NSW,9,69.0,4
+521,Male,42,1956-05-17,,Mass Customer,Yes,12,VIC,8,64.0,0
+522,Male,60,1991-01-23,Entertainment,High Net Worth,No,2,NSW,12,29.0,4
+523,Male,44,1950-09-30,Argiculture,Affluent Customer,Yes,11,NSW,6,70.0,4
+524,Male,79,1980-05-29,Manufacturing,High Net Worth,Yes,8,VIC,7,40.0,0
+525,Male,11,1954-03-10,Telecommunications,High Net Worth,Yes,13,VIC,10,66.0,0
+526,Female,26,1964-11-06,Financial Services,Mass Customer,Yes,14,VIC,12,56.0,0
+527,Male,97,1953-05-24,Financial Services,Affluent Customer,No,13,VIC,8,67.0,0
+528,Female,59,1972-06-27,,High Net Worth,No,9,NSW,9,48.0,4
+529,Female,56,1973-07-03,IT,High Net Worth,No,19,NSW,11,47.0,4
+530,Female,18,1998-12-19,,Mass Customer,No,12,NSW,4,22.0,2
+531,Female,71,1981-09-14,Financial Services,Mass Customer,Yes,9,NSW,6,39.0,2
+532,Male,61,1986-01-10,Retail,Mass Customer,No,8,VIC,8,34.0,0
+533,Male,55,1955-04-08,Financial Services,Mass Customer,No,9,NSW,3,65.0,2
+534,Male,62,1952-12-04,Financial Services,High Net Worth,Yes,22,VIC,8,68.0,0
+535,Female,10,1956-05-29,Financial Services,Mass Customer,Yes,17,QLD,7,64.0,5
+536,Male,16,1978-12-10,Argiculture,Mass Customer,Yes,15,NSW,6,42.0,2
+537,Male,62,1994-11-16,Health,Affluent Customer,No,15,VIC,8,26.0,0
+538,Female,41,1978-12-14,Manufacturing,High Net Worth,No,15,VIC,7,42.0,0
+539,Female,37,1997-11-29,Manufacturing,Mass Customer,No,7,NSW,12,23.0,2
+540,Male,80,1965-04-22,Manufacturing,High Net Worth,No,5,NSW,10,55.0,4
+541,Female,78,1976-09-25,Manufacturing,Affluent Customer,No,13,QLD,5,44.0,4
+542,Female,10,1975-04-08,Financial Services,Affluent Customer,No,16,NSW,9,45.0,4
+543,Male,68,1950-11-30,Manufacturing,Mass Customer,No,8,NSW,7,70.0,2
+544,Male,60,1998-02-19,Manufacturing,High Net Worth,Yes,2,VIC,6,22.0,0
+545,Female,0,1977-06-30,Health,Mass Customer,No,13,NSW,12,43.0,2
+546,Female,99,1972-04-27,Financial Services,Mass Customer,No,5,NSW,7,48.0,2
+547,Female,37,1973-01-06,Entertainment,High Net Worth,Yes,9,NSW,10,47.0,4
+548,Male,69,1984-07-06,Retail,Affluent Customer,No,13,NSW,9,36.0,4
+549,Female,42,1991-04-21,Financial Services,High Net Worth,Yes,12,NSW,12,29.0,4
+550,Female,34,1979-01-03,Manufacturing,High Net Worth,Yes,11,VIC,9,41.0,0
+551,Female,83,1976-01-16,Financial Services,High Net Worth,Yes,5,QLD,6,44.0,4
+552,Male,12,1999-04-21,Manufacturing,Mass Customer,Yes,13,QLD,3,21.0,5
+553,Female,55,1958-05-14,Financial Services,Affluent Customer,No,17,NSW,6,62.0,4
+554,Female,79,1995-10-01,Financial Services,High Net Worth,Yes,13,NSW,8,25.0,4
+555,Male,23,1993-11-02,Manufacturing,High Net Worth,No,12,NSW,7,27.0,4
+556,Male,79,1972-03-24,Financial Services,High Net Worth,No,13,VIC,3,48.0,0
+557,Male,46,1994-02-04,Manufacturing,High Net Worth,No,13,NSW,9,26.0,4
+558,Male,70,1947-04-21,Manufacturing,High Net Worth,No,8,NSW,12,73.0,4
+559,Male,60,1950-03-31,Manufacturing,High Net Worth,No,13,NSW,6,70.0,4
+560,Male,15,1951-01-29,,Mass Customer,No,13,QLD,3,69.0,5
+561,Female,80,1954-03-08,Property,Mass Customer,No,5,QLD,8,66.0,3
+562,Male,4,1994-06-16,Financial Services,Mass Customer,Yes,13,QLD,10,26.0,2
+563,Male,67,1967-04-07,Health,Affluent Customer,No,13,NSW,10,53.0,4
+564,Female,87,1955-07-06,Retail,Affluent Customer,Yes,20,NSW,9,65.0,4
+565,Male,73,1955-11-25,Financial Services,High Net Worth,Yes,15,NSW,6,65.0,4
+566,Female,17,1964-03-14,Telecommunications,High Net Worth,Yes,12,NSW,10,56.0,4
+567,Male,40,1986-09-25,,Mass Customer,Yes,14,VIC,7,34.0,0
+568,Male,81,1991-11-24,Entertainment,Mass Customer,No,14,QLD,1,29.0,5
+569,Female,66,2001-09-27,Manufacturing,Mass Customer,Yes,2,QLD,7,19.0,1
+570,Female,53,1968-07-29,Financial Services,Mass Customer,Yes,18,NSW,8,52.0,2
+571,Male,81,1950-12-09,Entertainment,Mass Customer,Yes,21,NSW,9,70.0,2
+572,Male,1,1942-08-23,Financial Services,Mass Customer,No,16,NSW,8,78.0,2
+573,Female,49,1965-02-25,Property,High Net Worth,Yes,18,VIC,7,55.0,3
+575,Female,66,1998-05-12,,Mass Customer,No,4,NSW,7,22.0,2
+576,Male,90,1943-10-27,Financial Services,Affluent Customer,No,7,VIC,2,77.0,0
+577,Male,33,1976-08-12,Financial Services,High Net Worth,Yes,9,NSW,9,44.0,4
+578,Female,64,1994-10-15,Retail,Mass Customer,No,11,NSW,9,26.0,2
+579,Male,75,1994-04-15,,Mass Customer,Yes,13,VIC,8,26.0,0
+580,Female,47,1973-01-04,Telecommunications,Mass Customer,No,11,NSW,10,47.0,2
+581,Female,3,1990-07-06,Manufacturing,High Net Worth,Yes,13,QLD,8,30.0,4
+582,Female,2,1995-07-18,,Affluent Customer,Yes,4,NSW,11,25.0,4
+583,Male,9,1995-12-17,Health,Mass Customer,Yes,11,NSW,7,25.0,2
+584,Female,26,1951-10-28,Health,Mass Customer,No,10,VIC,1,69.0,0
+585,Female,27,1938-08-30,Manufacturing,Affluent Customer,No,15,VIC,3,82.0,0
+586,Male,32,1996-04-13,Health,Affluent Customer,No,14,QLD,6,24.0,4
+587,Male,95,1994-04-17,Financial Services,Affluent Customer,Yes,1,QLD,8,26.0,1
+588,Male,83,1974-12-25,Health,High Net Worth,No,18,NSW,8,46.0,4
+589,Female,39,1987-04-20,Manufacturing,High Net Worth,Yes,17,VIC,7,33.0,0
+590,Male,1,1979-10-22,Manufacturing,Mass Customer,No,10,VIC,6,41.0,0
+591,Female,44,1996-05-10,Retail,Affluent Customer,Yes,13,VIC,8,24.0,0
+592,Male,83,1965-02-09,Financial Services,Mass Customer,No,7,VIC,5,55.0,0
+593,Male,13,1955-10-22,Property,Mass Customer,No,20,NSW,8,65.0,3
+594,Female,21,1973-03-15,Financial Services,Affluent Customer,Yes,8,VIC,3,47.0,0
+595,Female,6,1958-07-19,,Mass Customer,Yes,10,VIC,8,62.0,0
+596,Male,57,1978-12-31,,Mass Customer,Yes,9,NSW,5,42.0,2
+597,Male,29,1994-11-07,Entertainment,High Net Worth,No,1,NSW,11,26.0,4
+599,Female,59,1939-05-26,,Mass Customer,No,14,NSW,12,81.0,2
+600,Male,63,1996-01-21,Financial Services,Affluent Customer,Yes,15,NSW,9,24.0,4
+601,Male,68,1997-06-29,Health,Affluent Customer,Yes,11,NSW,11,23.0,4
+602,Female,45,1973-01-29,Manufacturing,Mass Customer,Yes,10,QLD,7,47.0,2
+603,Male,93,1961-05-23,,Affluent Customer,Yes,10,VIC,7,59.0,0
+604,Female,27,1966-09-19,IT,Affluent Customer,Yes,12,VIC,10,54.0,0
+605,Female,33,1955-11-25,,Affluent Customer,No,20,NSW,9,65.0,4
+606,Male,96,1955-07-13,Manufacturing,Mass Customer,Yes,20,NSW,8,65.0,2
+607,Female,80,1979-09-30,Manufacturing,Mass Customer,Yes,12,NSW,6,41.0,2
+608,Male,70,1970-05-19,Health,Mass Customer,Yes,5,NSW,8,50.0,2
+609,Female,94,1998-08-24,Manufacturing,Mass Customer,Yes,9,NSW,8,22.0,2
+610,Male,65,1976-12-07,Property,High Net Worth,No,16,QLD,7,44.0,3
+611,Female,88,1969-03-05,Property,Mass Customer,Yes,7,QLD,3,51.0,3
+612,Male,29,1950-05-08,Health,Affluent Customer,Yes,17,NSW,8,70.0,4
+613,Male,37,1951-03-19,Retail,Mass Customer,Yes,14,VIC,8,69.0,0
+614,Female,63,1957-06-10,IT,Mass Customer,No,8,NSW,9,63.0,2
+615,Male,62,1963-07-31,Health,Mass Customer,Yes,6,NSW,12,57.0,2
+616,Female,47,1956-07-05,Property,Affluent Customer,Yes,17,NSW,11,64.0,3
+617,Female,49,1973-10-03,Manufacturing,Mass Customer,No,8,QLD,7,47.0,2
+618,Female,61,1959-01-08,Retail,High Net Worth,No,16,NSW,9,61.0,4
+619,Female,22,1968-12-26,Financial Services,Mass Customer,Yes,7,QLD,4,52.0,5
+620,Male,88,1955-09-29,Financial Services,Mass Customer,Yes,6,NSW,2,65.0,2
+621,Female,62,1940-06-07,,Mass Customer,Yes,22,NSW,9,80.0,2
+622,Male,31,1998-01-15,Manufacturing,Mass Customer,Yes,8,QLD,7,22.0,2
+623,Male,11,1967-01-19,Health,Mass Customer,No,19,QLD,9,53.0,2
+624,Female,97,1960-04-12,Manufacturing,Affluent Customer,Yes,5,QLD,9,60.0,4
+625,Male,51,1993-09-20,Manufacturing,Affluent Customer,Yes,6,NSW,9,27.0,4
+626,Female,17,1973-07-13,,Affluent Customer,Yes,7,VIC,7,47.0,0
+627,Male,30,1961-04-20,Manufacturing,Mass Customer,No,9,QLD,7,59.0,2
+628,Male,42,1939-08-22,Property,Affluent Customer,Yes,13,NSW,2,81.0,3
+629,Male,7,1945-12-24,,Mass Customer,No,11,NSW,9,75.0,2
+630,Male,43,1987-05-01,,High Net Worth,Yes,16,NSW,7,33.0,4
+631,Female,86,1962-09-21,Health,Mass Customer,Yes,17,QLD,5,58.0,5
+632,Female,3,1975-10-31,Financial Services,Mass Customer,Yes,13,VIC,8,45.0,0
+633,Male,88,1997-05-18,Retail,Mass Customer,No,12,QLD,6,23.0,2
+634,Male,96,1954-01-06,Financial Services,Mass Customer,Yes,16,QLD,5,66.0,5
+635,Male,23,1950-03-18,Health,High Net Worth,No,18,VIC,1,70.0,0
+636,Male,97,1978-04-04,Retail,High Net Worth,No,8,NSW,10,42.0,4
+637,Female,31,1954-10-19,Financial Services,Affluent Customer,Yes,11,VIC,6,66.0,0
+638,Female,70,1950-05-04,Retail,Affluent Customer,Yes,13,NSW,10,70.0,4
+639,Female,18,1966-08-04,Retail,Affluent Customer,No,14,VIC,8,54.0,0
+640,Female,96,1968-02-17,,High Net Worth,No,8,QLD,7,52.0,4
+641,Male,42,1982-12-15,Property,Mass Customer,No,13,NSW,8,38.0,3
+642,Female,48,1996-05-28,Manufacturing,Affluent Customer,No,14,QLD,3,24.0,4
+643,Male,82,1962-07-12,Manufacturing,Mass Customer,No,12,NSW,11,58.0,2
+644,Female,51,1976-10-08,,Affluent Customer,No,18,VIC,8,44.0,0
+645,Female,38,1940-05-23,Argiculture,High Net Worth,Yes,14,NSW,8,80.0,4
+646,Male,93,1995-07-19,Retail,Affluent Customer,Yes,5,NSW,9,25.0,4
+647,Male,24,1981-07-06,Financial Services,Mass Customer,No,17,NSW,9,39.0,2
+648,Female,18,1942-10-21,Health,Mass Customer,Yes,15,QLD,9,78.0,5
+649,Male,58,1958-06-25,Manufacturing,High Net Worth,Yes,16,NSW,5,62.0,4
+650,Male,42,1988-01-07,,Mass Customer,No,5,NSW,8,32.0,2
+651,Male,29,1976-10-29,,Mass Customer,Yes,8,NSW,7,44.0,2
+652,Female,98,1997-04-03,Retail,Mass Customer,Yes,1,VIC,9,23.0,0
+653,Female,86,1958-04-25,Manufacturing,Mass Customer,Yes,17,VIC,5,62.0,0
+654,Female,11,1951-11-28,Manufacturing,High Net Worth,Yes,15,VIC,12,69.0,0
+655,Female,2,1944-04-28,Financial Services,Mass Customer,Yes,19,NSW,12,76.0,2
+656,Female,6,1985-03-25,Manufacturing,High Net Worth,Yes,14,VIC,6,35.0,0
+657,Female,34,1942-07-06,Manufacturing,Affluent Customer,Yes,9,NSW,7,78.0,4
+658,Female,25,1977-09-11,Financial Services,Affluent Customer,Yes,18,VIC,5,43.0,0
+659,Male,12,1968-07-12,Financial Services,Mass Customer,No,16,VIC,3,52.0,0
+660,Male,73,1991-12-21,Financial Services,High Net Worth,No,6,VIC,11,29.0,0
+661,Male,94,1959-07-28,Manufacturing,Affluent Customer,Yes,20,NSW,8,61.0,4
+662,Female,50,1980-10-29,Financial Services,High Net Worth,Yes,16,VIC,8,40.0,0
+663,Female,59,1940-10-26,Health,High Net Worth,No,17,NSW,11,80.0,4
+665,Male,13,1960-01-21,Property,Mass Customer,No,10,NSW,7,60.0,3
+666,Female,41,1960-02-14,Telecommunications,Mass Customer,No,12,VIC,7,60.0,0
+667,Female,42,1941-02-26,Financial Services,High Net Worth,No,19,VIC,7,79.0,0
+668,Male,52,1976-07-16,,High Net Worth,Yes,9,NSW,8,44.0,4
+669,Female,50,1974-10-12,Financial Services,Mass Customer,Yes,22,QLD,2,46.0,5
+670,Male,3,1959-08-01,Entertainment,High Net Worth,No,9,VIC,10,61.0,0
+671,Female,45,1956-12-04,Retail,Affluent Customer,No,12,QLD,6,64.0,4
+672,Female,5,1944-03-18,Health,High Net Worth,No,11,NSW,11,76.0,4
+673,Male,20,1956-03-19,,Mass Customer,Yes,20,NSW,8,64.0,2
+674,Female,23,1940-03-11,Manufacturing,Mass Customer,No,18,VIC,9,80.0,0
+675,Female,73,1962-08-05,Health,High Net Worth,No,12,NSW,9,58.0,4
+676,Female,8,1952-04-07,Health,Mass Customer,No,21,NSW,10,68.0,2
+677,Male,99,1966-08-11,Financial Services,Mass Customer,No,15,NSW,8,54.0,2
+678,Female,36,1996-09-06,Health,Mass Customer,No,4,NSW,9,24.0,2
+679,Male,93,1970-09-09,Retail,Mass Customer,Yes,7,NSW,12,50.0,2
+680,Female,70,1996-06-18,Property,Affluent Customer,Yes,9,NSW,7,24.0,3
+681,Male,17,1947-12-28,Retail,Affluent Customer,No,12,QLD,9,73.0,4
+682,Female,25,1981-05-05,Manufacturing,Mass Customer,Yes,12,QLD,7,39.0,2
+683,Female,98,1978-03-27,Health,Mass Customer,Yes,10,NSW,1,42.0,2
+684,Male,58,1977-07-19,Retail,High Net Worth,No,7,VIC,2,43.0,0
+685,Female,95,1980-04-09,Entertainment,Mass Customer,Yes,3,NSW,6,40.0,2
+686,Male,67,1994-12-23,Financial Services,Mass Customer,Yes,2,QLD,8,26.0,1
+687,Male,22,1941-02-23,Manufacturing,Mass Customer,No,11,NSW,9,79.0,2
+688,Female,92,1992-10-10,Health,High Net Worth,No,16,QLD,4,28.0,5
+689,Male,69,1938-09-02,Health,High Net Worth,Yes,7,NSW,9,82.0,4
+690,Female,53,1992-06-24,Financial Services,Affluent Customer,Yes,5,VIC,8,28.0,0
+691,Male,42,1978-04-20,,Mass Customer,Yes,13,NSW,8,42.0,2
+692,Male,70,1973-08-30,Financial Services,Affluent Customer,No,18,NSW,9,47.0,4
+693,Male,96,1954-06-15,Financial Services,Mass Customer,No,9,QLD,5,66.0,2
+694,Male,68,1977-10-07,Property,High Net Worth,Yes,17,NSW,4,43.0,3
+695,Male,91,1991-06-01,Retail,Mass Customer,Yes,13,NSW,9,29.0,2
+696,Female,75,1950-11-06,,High Net Worth,No,18,QLD,3,70.0,5
+697,Male,31,1957-12-10,Manufacturing,Mass Customer,No,7,NSW,8,63.0,2
+698,Female,12,1961-11-03,,High Net Worth,No,12,NSW,12,59.0,4
+699,Female,8,1974-07-03,Manufacturing,High Net Worth,No,7,QLD,3,46.0,5
+700,Female,44,1981-01-29,Health,High Net Worth,Yes,7,NSW,8,39.0,4
+701,Female,39,1974-12-25,Telecommunications,High Net Worth,No,13,NSW,11,46.0,4
+702,Male,97,1965-09-04,Manufacturing,Mass Customer,No,6,NSW,8,55.0,2
+703,Female,44,1973-04-29,Financial Services,Mass Customer,No,13,QLD,9,47.0,2
+704,Female,37,1953-08-07,Health,Affluent Customer,Yes,19,VIC,7,67.0,0
+705,Female,99,1951-07-22,Financial Services,High Net Worth,No,16,NSW,11,69.0,4
+706,Male,27,1975-11-18,Financial Services,Mass Customer,No,11,VIC,8,45.0,0
+707,Male,18,1946-08-22,Health,Mass Customer,Yes,8,NSW,5,74.0,2
+708,Female,64,1999-11-18,Financial Services,Mass Customer,No,2,NSW,7,21.0,2
+709,Male,57,1972-09-04,Health,Affluent Customer,Yes,14,NSW,8,48.0,4
+710,Female,85,1983-12-10,Financial Services,Mass Customer,Yes,9,VIC,8,37.0,0
+711,Male,14,1983-05-18,Financial Services,Mass Customer,Yes,6,QLD,9,37.0,2
+712,Male,28,1971-10-11,,Affluent Customer,Yes,18,QLD,2,49.0,4
+713,Female,47,1975-07-09,Retail,Mass Customer,No,17,QLD,3,45.0,5
+714,Female,74,1950-10-12,Financial Services,High Net Worth,No,12,NSW,11,70.0,4
+715,Female,82,1963-10-16,Telecommunications,Mass Customer,Yes,10,NSW,2,57.0,2
+716,Male,8,1965-09-09,,Affluent Customer,Yes,4,VIC,7,55.0,0
+717,Female,26,1966-10-18,Health,Mass Customer,Yes,9,QLD,10,54.0,2
+718,Female,15,1999-11-30,Health,Affluent Customer,Yes,9,VIC,9,21.0,0
+719,Male,71,1966-01-30,Financial Services,Mass Customer,Yes,7,NSW,9,54.0,2
+720,Male,12,1978-01-15,Manufacturing,Mass Customer,No,5,NSW,4,42.0,2
+721,Male,71,1972-10-23,,Mass Customer,Yes,5,NSW,8,48.0,2
+722,Male,36,1965-08-21,Manufacturing,Mass Customer,No,17,VIC,6,55.0,0
+723,Female,40,1977-01-03,IT,Affluent Customer,Yes,21,VIC,11,43.0,0
+724,Female,54,1969-03-06,,Mass Customer,Yes,10,NSW,9,51.0,2
+725,Male,83,1970-03-11,,Mass Customer,No,16,VIC,9,50.0,0
+726,Male,37,1997-10-23,,High Net Worth,Yes,9,NSW,10,23.0,4
+727,Male,75,1993-11-02,Property,Mass Customer,Yes,10,NSW,7,27.0,3
+728,Male,28,1956-09-15,Health,Affluent Customer,Yes,12,NSW,11,64.0,4
+729,Female,60,1961-12-10,Health,Affluent Customer,Yes,16,NSW,9,59.0,4
+730,Male,87,1997-03-28,IT,Mass Customer,Yes,11,NSW,10,23.0,2
+731,Female,40,1992-04-07,Manufacturing,Mass Customer,Yes,5,QLD,5,28.0,2
+732,Female,94,1945-06-11,,Mass Customer,Yes,9,QLD,9,75.0,2
+733,Male,35,1991-03-06,Financial Services,Mass Customer,No,15,QLD,2,29.0,5
+734,Male,17,1981-04-14,Manufacturing,Mass Customer,Yes,5,NSW,9,39.0,2
+735,Male,11,1990-04-04,,Mass Customer,Yes,9,QLD,7,30.0,2
+736,Female,68,1966-09-17,Health,Mass Customer,Yes,6,QLD,7,54.0,5
+737,Male,52,1963-09-01,,High Net Worth,Yes,17,QLD,7,57.0,4
+738,Male,48,1975-09-20,Manufacturing,High Net Worth,No,16,NSW,9,45.0,4
+739,Female,42,1947-06-12,IT,Affluent Customer,Yes,19,QLD,1,73.0,4
+740,Female,49,1939-09-09,Telecommunications,High Net Worth,No,9,QLD,5,81.0,5
+741,Male,68,1974-02-21,Financial Services,Mass Customer,Yes,11,NSW,9,46.0,2
+742,Male,97,2001-04-16,Financial Services,Mass Customer,Yes,10,VIC,6,19.0,0
+743,Female,70,1948-03-02,Property,Affluent Customer,Yes,17,QLD,9,72.0,3
+744,Male,87,1998-08-19,Entertainment,Mass Customer,No,11,NSW,2,22.0,2
+745,Male,43,1976-07-19,Retail,Affluent Customer,No,8,NSW,10,44.0,4
+746,Female,86,1980-01-03,Financial Services,Mass Customer,No,7,QLD,3,40.0,5
+747,Female,25,1962-05-12,Entertainment,Mass Customer,Yes,5,QLD,7,58.0,5
+748,Male,99,1975-07-25,Financial Services,Mass Customer,Yes,21,QLD,9,45.0,2
+749,Female,7,1971-01-10,Retail,Affluent Customer,No,11,NSW,12,49.0,4
+750,Male,33,1950-04-15,Retail,Mass Customer,Yes,20,VIC,2,70.0,0
+752,Female,45,1960-07-04,Financial Services,Mass Customer,Yes,15,VIC,9,60.0,0
+753,Male,35,1965-03-15,Health,Mass Customer,No,16,NSW,8,55.0,2
+754,Female,87,1974-06-17,,Mass Customer,No,12,VIC,7,46.0,0
+755,Male,80,1969-06-04,Health,Affluent Customer,No,10,QLD,5,51.0,4
+756,Male,22,1996-03-18,Financial Services,Affluent Customer,Yes,6,VIC,6,24.0,0
+757,Female,32,1973-09-29,Financial Services,Mass Customer,Yes,6,NSW,11,47.0,2
+758,Male,69,1982-04-25,Health,High Net Worth,No,17,NSW,7,38.0,4
+759,Female,79,1978-06-21,Health,High Net Worth,No,17,NSW,4,42.0,4
+760,Male,51,1973-12-22,Retail,Affluent Customer,No,21,QLD,3,47.0,4
+761,Male,5,1987-11-02,Property,Mass Customer,No,7,QLD,7,33.0,3
+762,Male,6,1950-09-09,Argiculture,Affluent Customer,No,16,QLD,1,70.0,4
+763,Male,52,2002-01-04,Financial Services,Affluent Customer,No,8,NSW,12,18.0,4
+764,Male,93,1983-02-08,Entertainment,Affluent Customer,Yes,15,VIC,9,37.0,0
+765,Male,37,1960-10-01,Manufacturing,High Net Worth,Yes,11,QLD,7,60.0,4
+766,Male,89,1999-02-22,Health,Affluent Customer,No,8,NSW,4,21.0,4
+767,Female,4,1990-04-06,Manufacturing,Affluent Customer,Yes,6,NSW,8,30.0,4
+768,Female,11,1965-12-22,Retail,Mass Customer,Yes,9,NSW,10,55.0,2
+769,Female,86,1938-08-05,,High Net Worth,Yes,13,QLD,6,82.0,5
+770,Female,86,1947-12-15,Entertainment,Mass Customer,No,22,VIC,8,73.0,0
+771,Female,23,1984-12-13,Health,Affluent Customer,No,4,NSW,3,36.0,4
+772,Male,47,1953-04-02,Manufacturing,High Net Worth,Yes,9,NSW,8,67.0,4
+773,Female,11,1989-07-23,Retail,Mass Customer,Yes,4,VIC,9,31.0,0
+774,Male,46,1993-06-02,Financial Services,High Net Worth,No,10,NSW,10,27.0,4
+776,Female,73,1988-03-05,Retail,Mass Customer,Yes,14,VIC,9,32.0,0
+777,Female,38,1966-01-19,Entertainment,Affluent Customer,No,18,NSW,10,54.0,4
+778,Male,40,1972-11-10,Manufacturing,Mass Customer,Yes,6,NSW,8,48.0,2
+779,Female,46,1996-04-05,,Mass Customer,Yes,6,VIC,12,24.0,0
+780,Female,30,1981-07-28,Health,Mass Customer,No,10,NSW,10,39.0,2
+781,Female,35,1964-07-07,Financial Services,Affluent Customer,Yes,10,QLD,5,56.0,4
+782,Male,55,1955-01-15,Manufacturing,High Net Worth,No,8,VIC,10,65.0,0
+783,Male,98,1992-10-13,Health,Mass Customer,No,12,NSW,9,28.0,2
+784,Male,66,1994-04-12,Manufacturing,Affluent Customer,No,9,NSW,10,26.0,4
+785,Male,89,1956-08-12,Health,High Net Worth,No,6,NSW,10,64.0,4
+786,Female,48,1957-09-04,Health,High Net Worth,Yes,11,VIC,12,63.0,0
+787,Male,1,1982-03-20,IT,High Net Worth,No,7,NSW,10,38.0,4
+788,Female,49,1980-04-23,Financial Services,Affluent Customer,No,9,QLD,2,40.0,4
+789,Female,32,1992-10-13,Manufacturing,Mass Customer,Yes,9,NSW,10,28.0,2
+790,Female,93,1974-01-26,Health,Affluent Customer,Yes,11,NSW,6,46.0,4
+791,Male,4,1973-03-12,Property,Mass Customer,No,7,VIC,10,47.0,3
+792,Female,79,1954-09-21,Entertainment,High Net Worth,No,18,NSW,6,66.0,4
+793,Male,21,1955-11-09,Health,Mass Customer,No,9,NSW,12,65.0,2
+794,Female,61,1951-08-25,Health,Affluent Customer,No,13,NSW,9,69.0,4
+795,Male,1,1969-10-03,Manufacturing,Mass Customer,No,10,QLD,2,51.0,5
+796,Female,47,1966-11-17,Financial Services,Mass Customer,Yes,13,VIC,12,54.0,0
+797,Male,7,1938-06-08,Health,Mass Customer,No,12,NSW,9,82.0,2
+798,Female,0,1981-07-05,Manufacturing,Affluent Customer,No,13,NSW,9,39.0,4
+799,Male,77,1949-08-11,Manufacturing,Affluent Customer,No,22,NSW,10,71.0,4
+800,Female,64,1982-03-09,Manufacturing,High Net Worth,No,17,NSW,8,38.0,4
+801,Female,25,1974-05-21,Health,Mass Customer,Yes,14,NSW,11,46.0,2
+802,Female,77,1980-09-14,Health,Mass Customer,No,11,NSW,10,40.0,2
+803,Male,79,1951-02-05,Manufacturing,Mass Customer,No,21,QLD,5,69.0,2
+804,Male,71,1947-07-13,,Mass Customer,Yes,11,NSW,8,73.0,2
+805,Female,12,1952-05-30,Manufacturing,High Net Worth,No,20,VIC,7,68.0,0
+806,Male,83,1964-11-10,Financial Services,Affluent Customer,No,16,QLD,9,56.0,4
+807,Male,67,1940-11-25,Financial Services,High Net Worth,No,21,NSW,11,80.0,4
+808,Male,94,1985-12-19,Financial Services,Mass Customer,No,8,NSW,7,35.0,2
+809,Female,46,1961-01-15,Financial Services,Affluent Customer,No,15,VIC,6,59.0,0
+810,Female,94,1968-11-23,Financial Services,Affluent Customer,Yes,9,NSW,10,52.0,4
+811,Male,69,1945-06-11,Manufacturing,Mass Customer,No,20,QLD,1,75.0,5
+812,Female,39,1978-07-10,Manufacturing,Affluent Customer,Yes,9,NSW,7,42.0,4
+813,Male,72,1991-02-06,Financial Services,High Net Worth,Yes,15,VIC,4,29.0,0
+814,Female,61,1952-12-09,,High Net Worth,No,22,QLD,5,68.0,5
+815,Male,34,2000-04-10,,Affluent Customer,No,3,NSW,7,20.0,4
+816,Male,38,1960-04-23,Health,Mass Customer,No,5,QLD,8,60.0,2
+817,Male,42,1940-05-18,Health,Mass Customer,Yes,17,NSW,10,80.0,2
+818,Male,1,1965-05-04,Financial Services,Affluent Customer,No,17,VIC,10,55.0,0
+819,Male,65,1988-12-15,Financial Services,Affluent Customer,No,14,VIC,8,32.0,0
+820,Male,96,1988-09-01,Manufacturing,High Net Worth,No,12,VIC,8,32.0,0
+821,Male,70,1978-08-06,Manufacturing,Affluent Customer,No,17,VIC,8,42.0,0
+822,Male,46,1966-11-05,,Mass Customer,Yes,14,NSW,8,54.0,2
+823,Male,36,1977-01-28,Argiculture,Mass Customer,No,16,QLD,7,43.0,2
+824,Female,11,1973-05-11,Financial Services,Mass Customer,Yes,7,NSW,8,47.0,2
+825,Female,43,1971-05-31,Financial Services,Mass Customer,No,9,VIC,6,49.0,0
+826,Male,21,1995-10-10,,Mass Customer,No,4,NSW,9,25.0,2
+827,Female,49,2000-04-17,,High Net Worth,No,9,QLD,8,20.0,4
+828,Female,60,1963-12-08,Health,High Net Worth,Yes,15,NSW,7,57.0,4
+829,Female,67,1992-03-09,Financial Services,Mass Customer,Yes,5,NSW,12,28.0,2
+830,Female,24,1962-05-05,Health,Affluent Customer,No,12,VIC,4,58.0,0
+831,Female,29,1973-08-11,Property,High Net Worth,Yes,4,NSW,11,47.0,3
+832,Female,66,1967-10-05,IT,Mass Customer,Yes,10,NSW,10,53.0,2
+833,Male,56,1962-08-26,Manufacturing,High Net Worth,No,11,VIC,5,58.0,0
+834,Male,79,1963-08-25,Financial Services,Mass Customer,No,15,QLD,7,57.0,2
+836,Male,79,1979-01-09,Manufacturing,Affluent Customer,Yes,7,QLD,8,41.0,4
+837,Male,7,1951-09-16,,Mass Customer,Yes,13,VIC,10,69.0,0
+838,Male,66,1994-07-17,,Mass Customer,No,7,NSW,8,26.0,2
+839,Male,94,1939-02-19,,Mass Customer,No,11,NSW,8,81.0,2
+840,Male,74,1948-01-01,,Mass Customer,Yes,19,NSW,8,72.0,2
+841,Male,47,1979-09-29,,Affluent Customer,No,11,NSW,12,41.0,4
+842,Female,79,1958-04-16,Property,High Net Worth,Yes,6,NSW,7,62.0,3
+843,Female,25,2001-04-17,Financial Services,Mass Customer,No,12,NSW,9,19.0,2
+844,Female,21,1973-04-14,Retail,Mass Customer,No,7,QLD,4,47.0,2
+845,Male,22,1994-09-30,Manufacturing,Mass Customer,No,3,NSW,5,26.0,2
+846,Female,60,1995-10-19,,Mass Customer,Yes,3,QLD,8,25.0,1
+847,Male,42,1982-10-29,Financial Services,Mass Customer,Yes,5,VIC,8,38.0,0
+848,Female,62,1997-03-07,Health,High Net Worth,Yes,10,NSW,7,23.0,4
+849,Male,66,1957-01-24,Telecommunications,High Net Worth,No,12,QLD,4,63.0,5
+850,Female,46,1959-11-13,Health,High Net Worth,No,12,VIC,2,61.0,0
+851,Female,63,1956-11-07,Manufacturing,Mass Customer,No,17,NSW,9,64.0,2
+852,Male,62,1998-08-16,Health,Mass Customer,Yes,1,NSW,8,22.0,2
+853,Female,29,1942-09-10,Financial Services,Affluent Customer,Yes,9,VIC,10,78.0,0
+854,Female,45,1980-09-13,Property,High Net Worth,Yes,5,NSW,10,40.0,3
+855,Male,24,1978-12-27,Health,Affluent Customer,Yes,18,VIC,7,42.0,0
+856,Male,32,1953-03-27,Manufacturing,Affluent Customer,Yes,11,QLD,2,67.0,5
+857,Female,67,1939-11-08,Health,Affluent Customer,Yes,22,NSW,9,81.0,4
+858,Male,88,1959-08-01,Health,Affluent Customer,Yes,12,NSW,10,61.0,4
+859,Female,47,1958-03-29,IT,High Net Worth,No,15,QLD,6,62.0,4
+860,Male,37,1979-02-10,Manufacturing,High Net Worth,Yes,8,VIC,6,41.0,0
+861,Male,42,1980-11-26,Financial Services,Affluent Customer,No,3,VIC,7,40.0,0
+862,Male,54,1953-08-21,Financial Services,Affluent Customer,No,10,NSW,7,67.0,4
+863,Female,2,2000-05-20,Manufacturing,Affluent Customer,Yes,7,NSW,9,20.0,4
+864,Female,32,1990-09-15,Manufacturing,Mass Customer,No,4,VIC,8,30.0,0
+865,Male,57,1947-04-06,Health,High Net Worth,Yes,21,VIC,2,73.0,0
+866,Female,99,1964-12-07,Health,High Net Worth,No,14,QLD,10,56.0,4
+867,Male,11,1961-07-31,,High Net Worth,Yes,12,NSW,11,59.0,4
+868,Female,87,1958-07-28,Financial Services,Mass Customer,No,8,VIC,9,62.0,0
+869,Male,95,1974-07-28,Health,Mass Customer,Yes,12,NSW,11,46.0,2
+870,Female,47,1967-06-01,Financial Services,Mass Customer,No,4,NSW,12,53.0,2
+871,Female,76,1961-08-23,Health,High Net Worth,Yes,7,NSW,3,59.0,4
+872,Female,37,1953-10-12,Health,High Net Worth,No,8,NSW,6,67.0,4
+873,Female,50,1974-06-08,IT,Mass Customer,Yes,21,VIC,10,46.0,0
+874,Male,88,1974-09-28,Financial Services,Affluent Customer,No,11,VIC,7,46.0,0
+875,Male,58,1995-10-20,Manufacturing,Affluent Customer,Yes,1,VIC,8,25.0,0
+876,Female,57,1956-03-08,Manufacturing,Mass Customer,No,19,NSW,11,64.0,2
+877,Male,43,1948-08-03,Manufacturing,Affluent Customer,Yes,13,QLD,9,72.0,4
+878,Female,30,1994-04-11,Health,High Net Worth,Yes,13,NSW,10,26.0,4
+879,Male,44,1966-04-07,,Affluent Customer,No,19,NSW,4,54.0,4
+880,Male,67,1941-07-21,Financial Services,High Net Worth,No,7,QLD,9,79.0,4
+881,Male,63,1973-10-10,Telecommunications,Mass Customer,Yes,9,QLD,6,47.0,5
+882,Female,22,1997-03-03,,Affluent Customer,Yes,13,VIC,3,23.0,0
+884,Male,48,1964-11-02,Entertainment,Mass Customer,No,14,VIC,7,56.0,0
+885,Male,40,1938-06-09,Financial Services,Affluent Customer,Yes,20,NSW,7,82.0,4
+886,Male,52,1994-03-29,Telecommunications,Mass Customer,No,11,NSW,9,26.0,2
+887,Female,27,1957-03-17,Argiculture,Affluent Customer,Yes,5,NSW,9,63.0,4
+888,Female,72,1980-07-28,Financial Services,Affluent Customer,No,5,VIC,9,40.0,0
+889,Male,64,1971-10-18,Manufacturing,Affluent Customer,No,16,NSW,6,49.0,4
+890,Male,57,1956-10-05,IT,Mass Customer,Yes,9,VIC,1,64.0,0
+891,Male,51,1972-07-02,Property,Mass Customer,Yes,6,NSW,12,48.0,3
+892,Female,11,1999-06-18,Manufacturing,High Net Worth,Yes,15,NSW,3,21.0,4
+893,Male,31,1984-09-01,,High Net Worth,No,5,NSW,9,36.0,4
+894,Female,54,2000-03-24,IT,Mass Customer,Yes,6,QLD,4,20.0,2
+895,Male,5,1961-10-02,Manufacturing,Mass Customer,No,18,VIC,8,59.0,0
+896,Male,46,1941-06-17,IT,Affluent Customer,Yes,7,QLD,5,79.0,4
+897,Male,47,1959-09-18,Health,Mass Customer,No,10,NSW,9,61.0,2
+898,Female,38,1952-08-21,Property,Affluent Customer,No,11,NSW,10,68.0,3
+899,Male,5,1968-05-28,Health,High Net Worth,No,19,NSW,9,52.0,4
+900,Male,1,1970-12-30,,Mass Customer,No,13,VIC,7,50.0,0
+901,Female,53,1964-05-19,Manufacturing,Mass Customer,No,8,NSW,10,56.0,2
+902,Male,48,1996-02-15,Financial Services,Mass Customer,No,9,VIC,6,24.0,0
+903,Female,84,1973-05-13,Manufacturing,Affluent Customer,Yes,5,NSW,8,47.0,4
+905,Female,77,1973-03-24,Health,Mass Customer,No,8,NSW,7,47.0,2
+906,Male,27,1967-03-02,,Affluent Customer,No,17,QLD,5,53.0,4
+907,Female,57,1963-03-04,,Mass Customer,No,12,VIC,7,57.0,0
+908,Male,10,2000-05-06,Health,Affluent Customer,No,16,NSW,9,20.0,4
+909,Female,65,1957-11-17,Retail,Mass Customer,Yes,8,NSW,5,63.0,2
+910,Female,49,1975-09-16,Manufacturing,Mass Customer,No,18,NSW,10,45.0,2
+911,Female,7,1991-05-21,Manufacturing,Affluent Customer,No,17,VIC,8,29.0,0
+912,Male,39,1960-12-27,Manufacturing,Affluent Customer,Yes,6,QLD,5,60.0,4
+913,Female,16,1961-02-10,,High Net Worth,Yes,10,VIC,9,59.0,0
+914,Male,86,1939-01-15,,Mass Customer,No,21,NSW,9,81.0,2
+915,Female,58,1987-11-16,Entertainment,High Net Worth,No,9,NSW,10,33.0,4
+916,Female,14,1979-05-16,Manufacturing,High Net Worth,Yes,13,QLD,2,41.0,5
+917,Female,64,1984-05-15,Health,High Net Worth,No,16,VIC,8,36.0,0
+918,Female,71,1988-10-16,Telecommunications,High Net Worth,No,3,QLD,9,32.0,4
+919,Male,78,1950-06-15,Telecommunications,High Net Worth,No,17,NSW,2,70.0,4
+920,Female,45,1958-05-15,,High Net Worth,Yes,14,NSW,6,62.0,4
+921,Female,59,1990-12-21,Health,Mass Customer,No,16,NSW,9,30.0,2
+922,Male,51,1981-04-06,Property,Mass Customer,Yes,3,NSW,10,39.0,3
+923,Female,22,1983-11-06,Manufacturing,High Net Worth,No,17,NSW,10,37.0,4
+924,Female,2,1973-05-30,Financial Services,Mass Customer,Yes,15,NSW,10,47.0,2
+925,Female,47,1959-08-20,Manufacturing,Mass Customer,Yes,5,VIC,4,61.0,0
+926,Female,61,1957-07-03,Manufacturing,Mass Customer,No,20,QLD,9,63.0,2
+927,Male,75,1998-02-05,Entertainment,High Net Worth,No,3,QLD,4,22.0,1
+928,Female,84,1978-03-17,Financial Services,High Net Worth,Yes,13,NSW,7,42.0,4
+929,Female,67,1993-08-11,Manufacturing,Affluent Customer,Yes,13,VIC,9,27.0,0
+930,Male,65,1951-01-18,Health,Mass Customer,Yes,21,VIC,5,69.0,0
+931,Female,98,1976-07-25,Manufacturing,Affluent Customer,No,8,NSW,10,44.0,4
+932,Female,30,1987-09-09,Telecommunications,Mass Customer,Yes,12,NSW,10,33.0,2
+933,Male,18,1975-01-19,Financial Services,Mass Customer,No,14,VIC,4,45.0,0
+934,Female,5,1960-08-31,Manufacturing,Mass Customer,No,6,VIC,4,60.0,0
+935,Female,79,1963-08-10,Entertainment,Mass Customer,Yes,17,VIC,6,57.0,0
+936,Male,16,1964-08-23,Financial Services,High Net Worth,Yes,8,VIC,8,56.0,0
+937,Female,41,1945-10-31,Financial Services,High Net Worth,Yes,11,NSW,3,75.0,4
+938,Female,77,1940-03-18,Argiculture,Mass Customer,No,17,QLD,4,80.0,5
+939,Male,98,1946-09-09,Retail,High Net Worth,No,20,NSW,9,74.0,4
+940,Female,61,1974-04-30,Financial Services,Mass Customer,Yes,21,VIC,8,46.0,0
+941,Female,5,1954-09-06,,Mass Customer,Yes,7,QLD,7,66.0,5
+942,Female,63,1971-04-26,Health,Affluent Customer,Yes,8,NSW,3,49.0,4
+943,Male,90,1974-05-28,Retail,Mass Customer,No,8,VIC,10,46.0,0
+944,Male,91,1992-08-09,Property,Mass Customer,No,5,NSW,9,28.0,3
+945,Female,63,1941-08-19,Retail,High Net Worth,No,8,NSW,7,79.0,4
+946,Female,44,1988-08-22,Manufacturing,High Net Worth,Yes,4,NSW,9,32.0,4
+947,Female,35,1992-03-26,Health,Mass Customer,No,17,VIC,4,28.0,0
+948,Male,13,1994-02-10,Manufacturing,High Net Worth,Yes,11,NSW,11,26.0,4
+949,Male,23,1983-06-26,Health,High Net Worth,No,2,VIC,8,37.0,0
+950,Female,26,1976-11-25,,Mass Customer,No,3,VIC,7,44.0,0
+951,Male,67,1966-03-03,IT,Mass Customer,Yes,6,QLD,7,54.0,2
+952,Female,23,1977-12-08,Financial Services,Mass Customer,No,6,VIC,3,43.0,0
+953,Female,74,1962-09-17,Manufacturing,Mass Customer,Yes,15,NSW,11,58.0,2
+954,Female,14,1994-11-28,,High Net Worth,No,13,NSW,12,26.0,4
+955,Male,12,1969-04-29,Financial Services,Mass Customer,Yes,6,VIC,7,51.0,0
+956,Female,59,1995-08-13,Retail,Mass Customer,Yes,15,NSW,11,25.0,2
+957,Female,83,1964-02-01,,Mass Customer,Yes,9,QLD,9,56.0,2
+958,Female,78,1998-10-14,Retail,Mass Customer,No,7,VIC,8,22.0,0
+959,Female,62,1967-01-03,,Mass Customer,No,4,VIC,4,53.0,0
+960,Female,0,1975-07-30,Financial Services,Mass Customer,No,10,NSW,9,45.0,2
+961,Male,15,1987-01-15,Health,Mass Customer,No,11,VIC,3,33.0,0
+962,Male,82,1969-01-05,Property,Affluent Customer,Yes,7,NSW,10,51.0,3
+963,Female,25,1980-12-19,Manufacturing,Mass Customer,Yes,13,QLD,6,40.0,2
+964,Female,42,1975-02-25,Health,Mass Customer,Yes,15,NSW,10,45.0,2
+965,Male,33,1994-06-25,Telecommunications,Affluent Customer,No,1,NSW,8,26.0,4
+966,Female,6,1963-08-25,Manufacturing,Mass Customer,No,18,QLD,6,57.0,2
+967,Female,74,1960-08-10,Manufacturing,High Net Worth,No,14,NSW,12,60.0,4
+968,Male,60,1986-01-17,Health,High Net Worth,Yes,15,NSW,1,34.0,4
+969,Male,3,1951-04-30,Manufacturing,High Net Worth,Yes,15,NSW,8,69.0,4
+970,Female,30,1967-08-23,Property,Affluent Customer,Yes,4,NSW,9,53.0,3
+971,Female,43,1999-03-04,,Affluent Customer,No,10,VIC,6,21.0,0
+972,Male,82,1998-06-03,Health,Mass Customer,Yes,11,NSW,10,22.0,2
+973,Female,37,1966-01-02,Retail,Mass Customer,Yes,13,QLD,5,54.0,5
+974,Female,77,2001-01-24,Financial Services,Affluent Customer,Yes,10,VIC,12,19.0,0
+975,Male,63,1968-06-12,,Affluent Customer,Yes,17,VIC,6,52.0,0
+976,Male,15,1967-05-06,Health,Mass Customer,Yes,5,VIC,9,53.0,0
+977,Female,56,1938-12-10,IT,Mass Customer,No,9,NSW,10,82.0,2
+978,Male,77,1977-02-12,Argiculture,Mass Customer,Yes,13,VIC,5,43.0,0
+979,Male,93,1986-06-27,Argiculture,Mass Customer,Yes,9,NSW,12,34.0,2
+980,Female,71,1992-04-08,,Mass Customer,Yes,3,NSW,8,28.0,2
+981,Female,83,1951-08-23,Financial Services,Affluent Customer,Yes,22,QLD,1,69.0,5
+982,Male,45,1956-06-25,Property,Mass Customer,No,8,NSW,5,64.0,3
+983,Female,5,1951-09-17,,Mass Customer,No,21,NSW,11,69.0,2
+985,Female,83,1987-09-21,Health,Mass Customer,No,15,VIC,4,33.0,0
+986,Male,41,1959-09-18,IT,Mass Customer,Yes,7,NSW,8,61.0,2
+987,Female,44,1997-10-23,Health,Mass Customer,No,15,NSW,7,23.0,2
+988,Female,64,1943-03-15,Manufacturing,Mass Customer,Yes,11,NSW,7,77.0,2
+989,Female,83,1945-07-26,Manufacturing,High Net Worth,Yes,11,NSW,8,75.0,4
+990,Female,60,1954-05-14,Property,Mass Customer,Yes,9,QLD,6,66.0,3
+991,Male,59,1974-05-15,Manufacturing,Mass Customer,Yes,15,VIC,3,46.0,0
+992,Female,32,1973-12-18,Entertainment,Mass Customer,Yes,8,QLD,3,47.0,5
+993,Male,38,1959-07-13,Financial Services,Mass Customer,Yes,6,NSW,4,61.0,2
+994,Female,15,1990-07-02,Retail,Mass Customer,No,3,VIC,12,30.0,0
+995,Male,60,1959-10-07,Financial Services,Affluent Customer,No,9,NSW,7,61.0,4
+996,Male,22,2001-10-17,Health,Mass Customer,No,6,NSW,10,19.0,2
+997,Female,17,1954-10-05,Financial Services,Affluent Customer,Yes,15,QLD,2,66.0,5
+998,Male,30,1952-12-17,Financial Services,Mass Customer,Yes,19,QLD,2,68.0,5
+999,Male,56,1955-10-02,Property,Mass Customer,Yes,14,NSW,9,65.0,3
